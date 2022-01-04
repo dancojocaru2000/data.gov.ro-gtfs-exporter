@@ -29722,6 +29722,62 @@
           46.795223
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "69989",
+        "name": "Aeroport H. Coanda T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.075307,
+          44.569007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "69991",
+        "name": "Patinoar PO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.065651,
+          44.566874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "52168",
+        "name": "Gheaba 2 P.O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.996696,
+          45.310392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "81729",
+        "name": "Cernica h."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.298609,
+          44.401071
+        ]
+      }
     }
   ]
 }
