@@ -16,13 +16,13 @@ Please link back to this page if you are using this utility or the generated fil
 ## Romanian Railways iOS App
 [Romanian Railways](https://itunes.apple.com/us/app/romanian-railways/id1099755336?mt=8) is an iOS app containing all the stations and train departures in Romania, can be used offline without need of a mobile connection.
 
-[![Romanian Railways](https://api.monosnap.com/rpc/file/download?id=63n5Z3gYvOmL94CM6jdJmVMc08LAaM)](https://itunes.apple.com/us/app/romanian-railways/id1099755336?mt=8)
+[![Romanian Railways](docs/RomanianRailwaysiOSApp.png)](https://itunes.apple.com/us/app/romanian-railways/id1099755336?mt=8)
 [Download the app](https://itunes.apple.com/us/app/romanian-railways/id1099755336?mt=8)
 
 ## Romanian Railways Network
 [cfr.webgis.ro](http://cfr.webgis.ro) is an example usage of using the GTFS dataset and it's a visualization of romanian railways network
 
-[![cfr.webgis.ro](https://api.monosnap.com/rpc/file/download?id=b1d8NMVz5JlStDxwDuYphKFaPpbHVv)](http://cfr.webgis.ro)
+[![cfr.webgis.ro](docs/RomanianRailwaysWebApp.jpeg)](http://cfr.webgis.ro)
 [Click to open](http://cfr.webgis.ro)
 
 ## Contact
