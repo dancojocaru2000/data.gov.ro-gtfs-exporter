@@ -84,15 +84,8 @@ class GovRoGTFSConverter
             end
 
             if agency_map[agency_id].nil?
-                operator_filename = file_path.split('/').last.match(/^(.+?)[0-9]/)[1]
-                broken_agency_id = settings['broken_agency'][operator_filename]
-
-                if broken_agency_id.nil?
-                    print "BROKEN agency_id #{agency_id} for trip #{trip_id} in #{file_path}\n"
-                    exit
-                end
-
-                agency_id = broken_agency_id
+                print "BROKEN agency_id #{agency_id} for trip #{trip_id} in #{file_path}\n"
+                exit
             end
 
             trip_data = {
