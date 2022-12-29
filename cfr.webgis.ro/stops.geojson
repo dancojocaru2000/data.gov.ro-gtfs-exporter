@@ -26050,8 +26050,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.819288,
-          45.962644
+          20.817116,
+          45.962929
         ]
       }
     },
@@ -29776,6 +29776,34 @@
         "coordinates": [
           26.298609,
           44.401071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "25921",
+        "name": "Satu Nou Nord h."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.820208,
+          45.964506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "70005",
+        "name": "R. Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.042048,
+          44.557577
         ]
       }
     }
