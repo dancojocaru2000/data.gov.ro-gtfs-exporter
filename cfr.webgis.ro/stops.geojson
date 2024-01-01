@@ -29806,6 +29806,48 @@
           44.557577
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "16633",
+        "name": "Stamora Germană P.O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.254697,
+          45.282449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "80115",
+        "name": "Pantelimon Vest P.O."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.177457,
+          44.47705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "12003",
+        "name": "Checea Sat P.O."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.849397,
+          45.788784
+        ]
+      }
     }
   ]
 }
