@@ -6,3 +6,5 @@ agency_id,agency_name,agency_url,agency_timezone
 227098,Regio Călători,http://www.regiotrans.ro/,Europe/Bucharest
 236025,Softrans,http://softrans.ro/,Europe/Bucharest
 228389,Transferoviar Calatori,http://www.transferoviarcalatori.ro/,Europe/Bucharest
+234273,Calea Ferată din Moldova,http://railway.md/,Europe/Chisinau
+916191,Ferotrans TFI,https://transitous.org,Europe/Bucharest

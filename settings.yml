@@ -40,6 +40,17 @@ agency_mapping:
         agency_name: Transferoviar Calatori
         agency_url: http://www.transferoviarcalatori.ro/
         agency_timezone: Europe/Bucharest
+    -
+        agency_id: 234273
+        agency_name: Calea Ferată din Moldova
+        agency_url: http://railway.md/
+        agency_timezone: Europe/Chisinau
+
+    -
+        agency_id: 916191
+        agency_name: Ferotrans TFI
+        agency_url: https://transitous.org # could not find the website
+        agency_timezone: Europe/Bucharest
 
 gtfs_files:
     agency:
@@ -90,4 +101,3 @@ gtfs_files:
         - service_id
         - trip_id
         - trip_short_name
-    
