@@ -1,1029 +1,732 @@
-route_id,agency_id,route_short_name,route_long_name,route_type
-1,234273,,Socola - Ungheni,103
-2,234273,,Ungheni Prut Fr. - Socola,103
-3,916191,,Iaşi - Bucureşti Nord Gr.A,102
-4,916191,,Suceava - Bucureşti Nord Gr.A,102
-5,916191,,Bucureşti Nord Gr.A - Iaşi,102
-6,916191,,Mangalia - Suceava,102
-7,916191,,Bucureşti Nord Gr.A - Suceava,102
-8,916191,,Suceava - Mangalia,102
-9,916191,,Bucureşti Nord Gr.A - Suceava,102
-10,200000,,Mangalia - Bucureşti Nord Gr.A,103
-11,200000,,Arad - Constanţa,105
-12,200000,,Bucureşti Nord Gr.A - Titu,103
-13,200000,,Bucureşti Nord Gr.A - Braşov,103
-14,200000,,Bucureşti Nord Gr.A - Mangalia,103
-15,200000,,Braşov - Bucureşti Nord Gr.A,103
-16,200000,,Constanţa - Arad,105
-17,200000,,Bucureşti Nord Gr.A - Arad,105
-18,200000,,Titu - Bucureşti Nord Gr.A,103
-19,200000,,Arad - Bucureşti Nord Gr.A,105
-20,200000,,Mangalia - Bucureşti Nord Gr.A,103
-21,236037,,Huedin - Cluj Napoca,106
-22,236037,,Bistriţa Bârgăului hcv. - Bistriţa Nord,106
-23,236037,,Timişoara Nord - Oradea,106
-24,236037,,Cluj Napoca - Bistriţa Nord,106
-25,236037,,Mediaş - Sibiu,106
-26,236037,,Cluj Napoca - Câmpia Turzii,106
-27,236037,,Cluj Napoca - Huedin,106
-28,236037,,Letca Hm. - Jibou,106
-29,236037,,Oradea - Aleşd,106
-30,236037,,Cluj Napoca - Sibiu,106
-31,236037,,Oradea - Valea lui Mihai,106
-32,236037,,Deda - Târgu Mureş,106
-33,236037,,Târgu Mureş - Câmpia Turzii,106
-34,236037,,Câmpia Turzii - Târgu Mureş,106
-35,236037,,Halmeu - Satu Mare,106
-36,236037,,Bratca - Oradea,106
-37,236037,,Bistriţa Nord - Bistriţa Bârgăului hcv.,106
-38,236037,,Bistriţa Nord - Cluj Napoca,106
-39,236037,,Baia Mare - Jibou,106
-40,236037,,Sibiu - Cluj Napoca,106
-41,236037,,Sibiu - Mediaş,106
-42,236037,,Târgu Mureş - Deda,106
-43,236037,,Arad - Caransebeş,106
-44,236037,,Sibiu - Cluj Napoca,106
-45,236037,,Jibou - Baia Mare,106
-46,236037,,Oradea - Satu Mare,106
-47,236037,,Cluj Napoca - Bistriţa Nord,106
-48,236037,,Satu Mare - Halmeu,106
-49,236037,,Bistriţa Nord - Cluj Napoca,106
-50,236037,,Oradea - Cluj Napoca,106
-51,236037,,Bistriţa Nord - Bistriţa Bârgăului hcv.,106
-52,236037,,Bistriţa Nord - Cluj Napoca,106
-53,236037,,Satu Mare - Oradea,106
-54,236037,,Topliţa - Târgu Mureş,106
-55,236037,,Satu Mare - Baia Mare,106
-56,236037,,Cluj Napoca - Târgu Mureş,106
-57,236037,,Aleşd - Oradea,106
-58,236037,,Oradea - Bratca,106
-59,236037,,Târgu Mureş - Cluj Napoca,106
-60,236037,,Cluj Napoca - Dej Calatori,106
-61,236037,,Cluj Napoca - Bistriţa Nord,106
-62,236037,,Oradea - Aleşd,106
-63,236037,,Cluj Napoca - Sibiu,106
-64,236037,,Cluj Napoca - Stana Hm.,106
-65,236037,,Câmpia Turzii - Cluj Napoca,106
-66,236037,,Valea lui Mihai - Oradea,106
-67,236037,,Cluj Napoca - Oradea,106
-68,236037,,Jibou - Letca Hm.,106
-69,236037,,Lunca Ilvei - Bistriţa Nord,106
-70,236037,,Cluj Napoca - Bistriţa Nord,106
-71,236037,,Dej Calatori - Cluj Napoca,106
-72,236037,,Lunca Ilvei - Beclean pe Someş,106
-73,236037,,Stana Hm. - Cluj Napoca,106
-74,236037,,Timişoara Nord - Oradea,106
-75,236037,,Oradea - Satu Mare,106
-76,236037,,Baia Mare - Satu Mare,106
-77,236037,,Caransebeş - Arad,106
-78,236037,,Beclean pe Someş - Bistriţa Nord,106
-79,236037,,Oradea - Timişoara Nord,106
-80,236037,,Cluj Napoca - Oradea,106
-81,236037,,Oradea - Bratca,106
-82,236037,,Târgu Mureş - Topliţa,106
-83,236037,,Oradea - Cluj Napoca,106
-84,236037,,Dej Calatori - Cluj Napoca,106
-85,236037,,Târgu Mureş - Topliţa,106
-86,236037,,Caransebeş - Arad,106
-87,236037,,Cluj Napoca - Bistriţa Nord,106
-88,236037,,Timişoara Nord - Oradea,106
-89,236037,,Beclean pe Someş - Lunca Ilvei,106
-90,236037,,Arad - Caransebeş,106
-91,236037,,Baia Mare - Jibou,106
-92,236037,,Bistriţa Nord - Lunca Ilvei,106
-93,236037,,Bistriţa Nord - Cluj Napoca,106
-94,227098,,Braşov - Breţcu Hm.,106
-95,227098,,Buhăieşti - Roman,106
-96,227098,,Roman - Buhăieşti,106
-97,227098,,Bucureşti Nord Gr.A - Braşov,106
-98,227098,,Zărneşti - Braşov,106
-99,227098,,Blaj - Târnăveni,106
-100,227098,,Dorohoi - Iaşi,106
-101,227098,,Arad - Nădlac,106
-102,227098,,Iaşi - Hârlău,106
-103,227098,,Nădlac - Arad,106
-104,227098,,Suceava Nord - Iaşi,106
-105,227098,,Timişoara Nord - Reşiţa Nord,106
-106,227098,,Braşov - Zărneşti,106
-107,227098,,Iaşi - Dorohoi,106
-108,227098,,Alba Iulia - Zlatna hcv.,106
-109,227098,,Timişoara Nord - Jimbolia,106
-110,227098,,Timişoara Nord - Reşiţa Nord,106
-111,227098,,Ploieşti Sud - Urziceni,106
-112,227098,,Roman - Dagâţa,106
-113,227098,,Cenad h. - Sânnicolau Mare Hm.,106
-114,227098,,Blaj - Bălăuşeri hcv.,106
-115,227098,,Urziceni - Ploieşti Sud,106
-116,227098,,Braşov - Întorsura Buzăului Hm,106
-117,227098,,Mărăşeşti - Iaşi,106
-118,227098,,Întorsura Buzăului Hm - Braşov,106
-119,227098,,Cruceni hcv. - Timişoara Nord,106
-120,227098,,Zlatna hcv. - Alba Iulia,106
-121,227098,,Jimbolia - Timişoara Nord,106
-122,227098,,Dagâţa - Buhăieşti,106
-123,227098,,Hârlău - Iaşi,106
-124,227098,,Timişoara Nord - Reşiţa Nord,106
-125,227098,,Sărmaşu h. - Bistriţa Nord,106
-126,227098,,Braşov - Bucureşti Nord Gr.A,106
-127,227098,,Arad - Nădlac,106
-128,227098,,Mărăşeşti - Ploieşti Vest,106
-129,227098,,Truşeşti Hm. - Iaşi,106
-130,227098,,Arad - Sânnicolau Mare Hm.,106
-131,227098,,Sânnicolau Mare Hm. - Arad,106
-132,227098,,Timişoara Nord - Remetea Mică,106
-133,227098,,Sărmaşel hcv. - Luduş,106
-134,227098,,Ploieşti Sud - Drăgăneşti Prahova Hm.,106
-135,227098,,Breţcu Hm. - Sfântu Gheorghe,106
-136,227098,,Luduş - Bistriţa Nord,106
-137,227098,,Iaşi - Suceava Nord,106
-138,227098,,Reşiţa Nord - Timişoara Nord,106
-139,227098,,Remetea Mică - Timişoara Nord,106
-140,227098,,Târnăveni - Blaj,106
-141,227098,,Nădlac - Arad,106
-142,227098,,Roman - Iaşi,106
-143,227098,,Timişoara Nord - Reşiţa Nord,106
-144,227098,,Breţcu Hm. - Braşov,106
-145,227098,,Iaşi - Vaslui,106
-146,227098,,Timişoara Nord - Cruceni hcv.,106
-147,227098,,Sfântu Gheorghe - Braşov,106
-148,227098,,Timişoara Nord - Sânnicolau Mare Hm.,106
-149,227098,,Mărăşeşti - Iaşi,106
-150,227098,,Sânnicolau Mare Hm. - Cenad h.,106
-151,227098,,Sărmaşel hcv. - Bistriţa Nord,106
-152,227098,,Vaslui - Iaşi,106
-153,227098,,Mărăşeşti - Iaşi,106
-154,227098,,Sânnicolau Mare Hm. - Vălcani hcv.,106
-155,227098,,Luduş - Sărmaşel hcv.,106
-156,227098,,Iaşi - Mărăşeşti,106
-157,227098,,Vălcani hcv. - Arad,106
-158,227098,,Braşov - Mangalia,103
-159,227098,,Bălăuşeri hcv. - Blaj,106
-160,227098,,Braşov - Întorsura Buzăului Hm,106
-161,227098,,Timişoara Nord - Sânnicolau Mare Hm.,106
-162,227098,,Sânnicolau Mare Hm. - Timişoara Nord,106
-163,227098,,Bistriţa Nord - Sărmaşel hcv.,106
-164,227098,,Mărăşeşti - Iaşi,106
-165,227098,,Iaşi - Roman,106
-166,227098,,Sfântu Gheorghe - Breţcu Hm.,106
-167,227098,,Reşiţa Nord - Timişoara Nord,106
-168,227098,,Reşiţa Nord - Timişoara Nord,106
-169,227098,,Timişoara Nord - Reşiţa Nord,106
-170,227098,,Dagâţa - Roman,106
-171,227098,,Iaşi - Truşeşti Hm.,106
-172,227098,,Mangalia - Braşov,103
-173,227098,,Bistriţa Nord - Luduş,106
-174,227098,,Ploieşti Vest - Mărăşeşti,106
-175,227098,,Miceştii de Câmpie h. - Bistriţa Nord,106
-176,227098,,Bălăuşeri hcv. - Târnăveni,106
-177,227098,,Întorsura Buzăului Hm - Braşov,106
-178,227098,,Drăgăneşti Prahova Hm. - Urziceni,106
-179,227098,,Cruceni hcv. - Timişoara Nord,106
-180,227098,,Mangalia - Braşov,103
-181,227098,,Constanţa - Bucureşti Nord Gr.A,106
-182,227098,,Bistriţa Nord - Miceştii de Câmpie h.,106
-183,227098,,Sânnicolau Mare Hm. - Timişoara Nord,106
-184,227098,,Iaşi - Mărăşeşti,106
-185,227098,,Buhăieşti - Dagâţa,106
-186,227098,,Reşiţa Nord - Timişoara Nord,106
-187,227098,,Bucureşti Nord Gr.A - Constanţa,106
-188,236025,,Bucureşti Nord Gr.A - Braşov,106
-189,236025,,Craiova - Bucureşti Nord Gr.A,106
-190,236025,,Braşov - Bucureşti Nord Gr.A,106
-191,236025,,Bucureşti Nord Gr.A - Craiova,106
-192,236025,,Constanţa - Bucureşti Nord Gr.A,103
-193,236025,,Bucureşti Nord Gr.A - Craiova,106
-194,236025,,Craiova - Bucureşti Nord Gr.A,106
-195,236025,,Bucureşti Nord Gr.A - Craiova,106
-196,236025,,Bucureşti Nord Gr.A - Constanţa,103
-197,236025,,Craiova - Bucureşti Nord Gr.A,106
-198,228389,,Măneciu - Ploieşti Sud,106
-199,228389,,Bârlad - Chiraftei h.,106
-200,228389,,Cluj Napoca - Oradea,106
-201,228389,,Chiraftei h. - Bârlad,106
-202,228389,,Nehoiaşu Hm. - Buzău,106
-203,228389,,Ploieşti Sud - Slănic,106
-204,228389,,Titan Sud Hm. - Olteniţa,106
-205,228389,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
-206,228389,,Adjud - Bucureşti Nord Gr.A,106
-207,228389,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
-208,228389,,Ploieşti Sud - Bucureşti Nord Gr.A,106
-209,228389,,Olteniţa - Titan Sud Hm.,106
-210,228389,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
-211,228389,,Bucureşti Nord Gr.A - Braşov,103
-212,228389,,Slănic - Ploieşti Sud,106
-213,228389,,Cluj Napoca - Bonţida Hm.,106
-214,228389,,Pietroşiţa Hm. - Târgovişte,106
-215,228389,,Bonţida Hm. - Cluj Napoca,106
-216,228389,,Bârlad - Târgu Bujor,106
-217,228389,,Târgovişte - Pietroşiţa Hm.,106
-218,228389,,Ploieşti Sud - Măneciu,106
-219,228389,,Cluj Napoca - Aghireş,106
-220,228389,,Buzău - Nehoiaşu Hm.,106
-221,228389,,Constanţa - Bucureşti Nord Gr.A,103
-222,228389,,Braşov - Cluj Napoca,103
-223,228389,,Mangalia - Buzău,103
-224,228389,,Bucureşti Nord Gr.A - Ploieşti Sud,106
-225,228389,,Chiraftei h. - Târgu Bujor,106
-226,228389,,Bucureşti Nord Gr.A - Buzău,106
-227,228389,,Târgu Bujor - Bârlad,106
-228,228389,,Bucureşti Nord Gr.A - Târgovişte,106
-229,228389,,Târgu Bujor - Chiraftei h.,106
-230,228389,,Pietroşiţa Hm. - Bucureşti Nord Gr.A,106
-231,228389,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
-232,228389,,Bucureşti Nord Gr.A - Ploieşti Sud,106
-233,228389,,Chiraftei h. - Bereşti Hm.,106
-234,228389,,Cluj Napoca - Bonţida Hm.,106
-235,228389,,Oradea - Cluj Napoca,106
-236,228389,,Braşov - Bucureşti Nord Gr.A,103
-237,228389,,Bucureşti Nord Gr.A - Roşiori Nord,106
-238,228389,,Bucureşti Nord Gr.A - Adjud,106
-239,228389,,Galaţi - Bucureşti Nord Gr.A,103
-240,228389,,Feteşti - Bucureşti Nord Gr.A,106
-241,228389,,Aghireş - Cluj Napoca,106
-242,228389,,Roşiori Nord - Bucureşti Nord Gr.A,106
-243,228389,,Bereşti Hm. - Chiraftei h.,106
-244,228389,,Buzău - Bucureşti Nord Gr.A,106
-245,228389,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
-246,228389,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
-247,228389,,Bucureşti Nord Gr.A - Mangalia,103
-248,228389,,Bucureşti Nord Gr.A - Buzău,106
-249,228389,,Târgovişte - Ploieşti Sud,106
-250,228389,,Bucureşti Nord Gr.A - Constanţa,103
-251,228389,,Târgu Bujor - Bârlad,106
-252,228389,,Buzău - Mangalia,103
-253,228389,,Cluj Napoca - Braşov,103
-254,228389,,Bucureşti Nord Gr.A - Galaţi,103
-255,228389,,Ploieşti Sud - Bucureşti Nord Gr.A,106
-256,228389,,Mangalia - Bucureşti Nord Gr.A,103
-257,228389,,Bucureşti Nord Gr.A - Galaţi,103
-258,228389,,Bucureşti Nord Gr.A - Feteşti,106
-259,228389,,Târgovişte - Bucureşti Nord Gr.A,106
-260,228389,,Bucureşti Nord Gr.A - Roşiori Nord,106
-261,228389,,Ploieşti Sud - Târgovişte,106
-262,228389,,Bereşti Hm. - Târgu Bujor,106
-263,228389,,Buzău - Bucureşti Nord Gr.A,106
-264,228389,,Bucureşti Nord Gr.A - Pietroşiţa Hm.,106
-265,6100826,,Târgu Jiu - Turceni,106
-266,6100826,,Vatra Dornei - Bistriţa Nord,106
-267,6100826,,Bistriţa Nord - Vatra Dornei,106
-268,6100826,,Valea lui Mihai - Satu Mare,106
-269,6100826,,Oradea - Halmeu,106
-270,6100826,,Sărmăşag - Jibou,106
-271,6100826,,Cluj Napoca - Dej Calatori,106
-272,6100826,,Mărăşeşti - Galaţi,106
-273,6100826,,Piteşti - Piatra Olt,106
-274,6100826,,Piatra Olt - Piteşti,106
-275,6100826,,Satu Mare - Apa Hm.,106
-276,6100826,,Apa Hm. - Satu Mare,106
-277,6100826,,Timişoara Nord - Arad,106
-278,6100826,,Comăneşti - Miercurea Ciuc,106
-279,6100826,,Satu Mare - Jibou,106
-280,6100826,,Timişoara Nord - Caransebeş,106
-281,6100826,,Caransebeş - Orşova,106
-282,6100826,,Bistriţa Nord - Dej Calatori,106
-283,6100826,,Dej Calatori - Bistriţa Nord,106
-284,6100826,,Sibiu - Miercurea Sibiu Hm.,106
-285,6100826,,Paşcani - Iaşi,106
-286,6100826,,Alexandria - Roşiori Nord,106
-287,6100826,,Bucureşti Nord Gr.A - Suceava,103
-288,6100826,,Videle - Giurgiu,106
-289,6100826,,Sibiu - Sighişoara,106
-290,6100826,,Biharkeresztes - Oradea,106
-291,6100826,,Jibou - Carei,106
-292,6100826,,Bucureşti Progresu - Giurgiu,106
-293,6100826,,Timişoara Nord - Iaşi,103
-294,6100826,,Bucureşti Nord Gr.A - Piteşti,106
-295,6100826,,Petroşani - Simeria,106
-296,6100826,,Ungheni Prut Hm. - Iaşi,106
-297,6100826,,Miercurea Ciuc - Mărăşeşti,106
-298,6100826,,Bucureşti Nord Gr.A - Iaşi,103
-299,6100826,,Goleşti - Parcul Kreţulescu h.,106
-300,6100826,,Arad - Oradea,106
-301,6100826,,Urziceni - Ciulniţa,106
-302,6100826,,Bucureşti Nord Gr.A - Satu Mare,105
-303,6100826,,Săvârşin - Simeria,106
-304,6100826,,Mangalia - Constanţa,106
-305,6100826,,Oradea - Biharkeresztes,106
-306,6100826,,Cluj Napoca - Oradea,106
-307,6100826,,Constanţa - Bucureşti Nord Gr.A,103
-308,6100826,,Craiova - Petroşani,106
-309,6100826,,Cluj Napoca - Oradea,103
-310,6100826,,Kotegyan - Salonta,106
-311,6100826,,Oradea - Timişoara Nord,106
-312,6100826,,Sărăţel - Bistriţa Nord,106
-313,6100826,,Bucureşti Nord Gr.A - Constanţa,103
-314,6100826,,Curtea de Argeş - Piteşti,106
-315,6100826,,Sibiu - Piatra Olt,106
-316,6100826,,Bratca - Huedin,106
-317,6100826,,Deva - Simeria,106
-318,6100826,,Orşova - Timişoara Nord,106
-319,6100826,,Simeria - Arad,106
-320,6100826,,Bucureşti Nord Gr.A - Buzău,106
-321,6100826,,Stamora Moravita - Timişoara Nord,106
-322,6100826,,Iaşi - Bucureşti Nord Gr.A,103
-323,6100826,,Ciulniţa - Slobozia Veche,106
-324,6100826,,Oradea - Bratca,106
-325,6100826,,Arad - Curtici,106
-326,6100826,,Bucureşti Nord Gr.A - Bucureşti Progresu,106
-327,6100826,,Băile Tuşnad Hm. - Siculeni,106
-328,6100826,,Gurahont - Arad,106
-329,6100826,,Iaşi - Scânteia Hm.,106
-330,6100826,,Piatra Neamţ - Bacău,106
-331,6100826,,Buzău - Brazi,106
-332,6100826,,Reşiţa Sud Hm. - Caransebeş,106
-333,6100826,,Craiova - Roşiori Nord,106
-334,6100826,,Bucureşti Nord Gr.A - Drobeta Tr. Severin,103
-335,6100826,,Cluj Napoca - Galaţi,103
-336,6100826,,Scânteia Hm. - Iaşi,106
-337,6100826,,Bistriţa Nord - Cluj Napoca,106
-338,6100826,,Alexandria - Roşiori Nord,106
-339,6100826,,Teiuş - Simeria,106
-340,6100826,,Piteşti - Bucureşti Nord Gr.A,106
-341,6100826,,Buzău - Ploieşti Sud,106
-342,6100826,,Timişoara Nord - Satu Mare,103
-343,6100826,,Lokoshaza - Bucureşti Nord Gr.A,105
-344,6100826,,Ploieşti Sud - Bucureşti Nord Gr.B,106
-345,6100826,,Constanţa - Braşov,102
-346,6100826,,Bucureşti Nord Gr.A - Roşiori Nord,106
-347,6100826,,Paşcani - Târgu Neamţ Hm.,106
-348,6100826,,Mangalia - Constanţa,106
-349,6100826,,Caransebeş - Reşiţa Sud Hm.,106
-350,6100826,,Suceava - Câmpulung Moldov.,106
-351,6100826,,Dej Calatori - Cluj Napoca,106
-352,6100826,,Suceava Nord - Paşcani,106
-353,6100826,,Vişeu de Jos - Sighetu Marmaţiei,106
-354,6100826,,Bucureşti Nord Gr.A - Ruse,105
-355,6100826,,Bucureşti Nord Gr.A - Cluj Napoca,102
-356,6100826,,Bucureşti Nord Gr.A - Braşov,106
-357,6100826,,Turceni - Târgu Jiu,106
-358,6100826,,Ciucea Hm. - Cluj Napoca,106
-359,6100826,,Târgu Jiu - Craiova,106
-360,6100826,,Mărăşeşti - Comăneşti,106
-361,6100826,,Mangalia - Constanţa,106
-362,6100826,,Bistriţa Nord - Sărăţel,106
-363,6100826,,Bucureşti Nord Gr.A - Arad,105
-364,6100826,,Jibou - Sărmăşag,106
-365,6100826,,Craiova - Băileşti,106
-366,6100826,,Paşcani - Iaşi,103
-367,6100826,,Galaţi - Bucureşti Nord Gr.A,102
-368,6100826,,Lugoj - Timişoara Nord,106
-369,6100826,,Cluj Napoca - Braşov,105
-370,6100826,,Iaşi - Suceava Nord,106
-371,6100826,,Buziaş - Lugoj,106
-372,6100826,,Bucureşti Nord Gr.A - Târgovişte,106
-373,6100826,,Arad - Teiuş,102
-374,6100826,,Deva - Bucureşti Nord Gr.A,103
-375,6100826,,Timişoara Nord - Lugoj,106
-376,6100826,,Lovrin - Timişoara Nord,106
-377,6100826,,Bucureşti Nord Gr.B - Roşiori Nord,106
-378,6100826,,Timişoara Nord - Lovrin,106
-379,6100826,,Câmpulung Moldov. - Suceava,106
-380,6100826,,Caransebeş - Timişoara Nord,106
-381,6100826,,Câmpulung Moldov. - Ilva Mică,106
-382,6100826,,Piteşti - Bucureşti Nord Gr.B,106
-383,6100826,,Teiuş - Cluj Napoca,106
-384,6100826,,Suceava - Mărăşeşti,103
-385,6100826,,Constanţa - Mangalia,106
-386,6100826,,Craiova - Piteşti,106
-387,6100826,,Târgu Neamţ Hm. - Paşcani,106
-388,6100826,,Caracal - Păuşa h.,106
-389,6100826,,Braşov - Siculeni,106
-390,6100826,,Bicaz - Piatra Neamţ,106
-391,6100826,,Mangalia - Constanţa,106
-392,6100826,,Paşcani - Suceava Nord,106
-393,6100826,,Făgăraş - Braşov,106
-394,6100826,,Călăraşi Sud - Feteşti,106
-395,6100826,,Beclean pe Someş - Sighetu Marmaţiei,106
-396,6100826,,Târgovişte - Bucureşti Nord Gr.A,106
-397,6100826,,Siculeni - Miercurea Ciuc,106
-398,6100826,,Lugoj - Buziaş,106
-399,6100826,,Făgăraş - Sibiu,106
-400,6100826,,Baia Mare - Cluj Napoca,106
-401,6100826,,Constanţa - Feteşti,106
-402,6100826,,Constanţa - Galaţi,103
-403,6100826,,Simeria - Pui,106
-404,6100826,,Dej Calatori - Ilva Mică,106
-405,6100826,,Târgu Jiu - Craiova,106
-406,6100826,,Timişoara Nord - Constanţa,105
-407,6100826,,Cluj Napoca - Dej Calatori,106
-408,6100826,,Deda - Bistriţa Nord,106
-409,6100826,,Ilia - Petroşani,106
-410,6100826,,Bucureşti Nord Gr.A - Piteşti,106
-411,6100826,,Bacău - Piatra Neamţ,106
-412,6100826,,Piatra Olt - Corabia,106
-413,6100826,,Bucureşti Nord Gr.A - Piteşti,106
-414,6100826,,Constanţa - Bucureşti Nord Gr.A,103
-415,6100826,,Piteşti - Craiova,106
-416,6100826,,Piteşti - Bucureşti Nord Gr.A,106
-417,6100826,,Petroşani - Târgu Jiu,106
-418,6100826,,Zam Hm. - Simeria,106
-419,6100826,,Oradea - Cluj Napoca,103
-420,6100826,,Teiuş - Mediaş,106
-421,6100826,,Braşov - Ploieşti Sud,106
-422,6100826,,Baia Mare - Nyirabrany,103
-423,6100826,,Caransebeş - Timişoara Nord,106
-424,6100826,,Bistriţa Nord - Deda,106
-425,6100826,,Cluj Napoca - Bistriţa Nord,106
-426,6100826,,Bucureşti Nord Gr.A - Târgovişte,106
-427,6100826,,Mărăşeşti - Buzău,106
-428,6100826,,Suceava - Ilva Mică,106
-429,6100826,,Braşov - Gheorgheni,106
-430,6100826,,Piteşti - Piatra Olt,106
-431,6100826,,Bucureşti Nord Gr.A - Constanţa,103
-432,6100826,,Craiova - Drobeta Tr. Severin,106
-433,6100826,,Bucureşti Nord Gr.A - Urziceni,106
-434,6100826,,Ploieşti Sud - Braşov,106
-435,6100826,,Suceava - Putna Hm.,106
-436,6100826,,Galaţi - Buzău,106
-437,6100826,,Bacău - Suceava Nord,106
-438,6100826,,Braşov - Mediaş,106
-439,6100826,,Mărăşeşti - Siculeni,106
-440,6100826,,Piatra Olt - Podu Olt,106
-441,6100826,,Craiova - Piteşti,106
-442,6100826,,Lokoshaza - Arad,103
-443,6100826,,Bucureşti Nord Gr.A - Buzău,106
-444,6100826,,Iaşi - Paşcani,106
-445,6100826,,Târgu Mureş - Războieni,106
-446,6100826,,Iaşi - Bacău,106
-447,6100826,,Bacău - Suceava Nord,106
-448,6100826,,Titu - Târgovişte,106
-449,6100826,,Feteşti - Bucureşti Obor,106
-450,6100826,,Piatra Olt - Corabia,106
-451,6100826,,Roşiori Nord - Craiova,106
-452,6100826,,Bistriţa Nord - Deda,106
-453,6100826,,Bucureşti Nord Gr.A - Iaşi,103
-454,6100826,,Craiova - Bucureşti Nord Gr.A,106
-455,6100826,,Mangalia - Constanţa,106
-456,6100826,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
-457,6100826,,Roşiori Nord - Bucureşti Nord Gr.B,106
-458,6100826,,Zalău Nord - Jibou,106
-459,6100826,,Războieni - Târgu Mureş,106
-460,6100826,,Drobeta Tr. Severin - Filiaşi,106
-461,6100826,,Braşov - Siculeni,106
-462,6100826,,Suceava Nord - Botoşani,106
-463,6100826,,Caransebeş - Reşiţa Sud Hm.,106
-464,6100826,,Cluj Napoca - Bistriţa Nord,106
-465,6100826,,Timişoara Nord - Caransebeş,106
-466,6100826,,Bucureşti Nord Gr.A - Bacău,103
-467,6100826,,Constanţa - Bucureşti Nord Gr.A,103
-468,6100826,,Sibiu - Râmnicu Vâlcea,106
-469,6100826,,Constanţa - Mangalia,106
-470,6100826,,Ungheni Prut Fr. - Iaşi,106
-471,6100826,,Cluj Napoca - Mediaş,106
-472,6100826,,Siculeni - Braşov,106
-473,6100826,,Craiova - Sibiu,106
-474,6100826,,Jibou - Zalău Nord,106
-475,6100826,,Tulcea Oraş - Constanţa,106
-476,6100826,,Arad - Lokoshaza,103
-477,6100826,,Margina - Lugoj,106
-478,6100826,,Jibou - Zalău Nord,106
-479,6100826,,Cluj Napoca - Lokoshaza,103
-480,6100826,,Teiuş - Sibiu,106
-481,6100826,,Bacău - Suceava Nord,106
-482,6100826,,Miercurea Ciuc - Comăneşti,106
-483,6100826,,Oradea - Cluj Napoca,106
-484,6100826,,Piteşti - Bucureşti Nord Gr.B,106
-485,6100826,,Galaţi - Mărăşeşti,106
-486,6100826,,Arad - Timişoara Nord,106
-487,6100826,,Băile Herculane - Caransebeş,106
-488,6100826,,Miercurea Ciuc - Deda,106
-489,6100826,,Galaţi - Constanţa,103
-490,6100826,,Iaşi - Bucureşti Nord Gr.A,103
-491,6100826,,Rupea - Braşov,106
-492,6100826,,Bucureşti Nord Gr.A - Craiova,103
-493,6100826,,Nyirabrany - Satu Mare,106
-494,6100826,,Timişoara Nord - Lugoj,106
-495,6100826,,Timişoara Nord - Arad,106
-496,6100826,,Arad - Simeria,106
-497,6100826,,Braşov - Sibiu,106
-498,6100826,,Bucureşti Nord Gr.A - Craiova,106
-499,6100826,,Ploieşti Sud - Bucureşti Nord Gr.A,106
-500,6100826,,Huedin - Cluj Napoca,106
-501,6100826,,Cacica Hm. - Suceava,106
-502,6100826,,Teiuş - Sibiu,106
-503,6100826,,Târgovişte - Bucureşti Nord Gr.B,106
-504,6100826,,Craiova - Calafat,106
-505,6100826,,Piteşti - Bucureşti Nord Gr.A,106
-506,6100826,,Salva - Ilva Mică,106
-507,6100826,,Putna Hm. - Suceava,106
-508,6100826,,Ploieşti Sud - Bucureşti Nord Gr.A,106
-509,6100826,,Cluj Napoca - Teiuş,106
-510,6100826,,Tulcea Oraş - Medgidia,106
-511,6100826,,Craiova - Târgu Jiu,106
-512,6100826,,Bucureşti Nord Gr.A - Piteşti,106
-513,6100826,,Ilva Mică - Vatra Dornei,106
-514,6100826,,Constanţa - Sibiu,103
-515,6100826,,Petroşani - Târgu Jiu,106
-516,6100826,,Bistriţa Nord - Cluj Napoca,106
-517,6100826,,Curtici - Arad,106
-518,6100826,,Buzău - Mărăşeşti,106
-519,6100826,,Cacica Hm. - Iaşi,106
-520,6100826,,Iaşi - Tecuci,106
-521,6100826,,Deda - Miercurea Ciuc,106
-522,6100826,,Râmnicu Vâlcea - Piatra Olt,106
-523,6100826,,Buzău - Bucureşti Nord Gr.A,106
-524,6100826,,Brazi - Buzău,106
-525,6100826,,Botoşani - Suceava,106
-526,6100826,,Mangalia - Constanţa,106
-527,6100826,,Iaşi - Cluj Napoca,103
-528,6100826,,Iaşi - Ungheni,106
-529,6100826,,Constanţa - Bucureşti Nord Gr.A,106
-530,6100826,,Roşiori Nord - Alexandria,106
-531,6100826,,Simeria - Ilia,106
-532,6100826,,Nyirabrany - Baia Mare,103
-533,6100826,,Bucureşti Nord Gr.A - Piteşti,106
-534,6100826,,Baia Mare - Timişoara Nord,103
-535,6100826,,Buziaş - Timişoara Nord,106
-536,6100826,,Mangalia - Constanţa,106
-537,6100826,,Bucureşti Nord Gr.A - Braşov,103
-538,6100826,,Bacău - Bicaz,106
-539,6100826,,Giurgiu - Videle,106
-540,6100826,,Bucureşti Nord Gr.A - Iaşi,105
-541,6100826,,Izvoru Mureşului Hm. - Siculeni,106
-542,6100826,,Cluj Napoca - Braşov,105
-543,6100826,,Gheorgheni - Miercurea Ciuc,106
-544,6100826,,Odorhei - Sighişoara,106
-545,6100826,,Cluj Napoca - Huedin,106
-546,6100826,,Cluj Napoca - Oradea,106
-547,6100826,,Beclean pe Someş - Cluj Napoca,106
-548,6100826,,Oradea - Cluj Napoca,106
-549,6100826,,Ploieşti Sud - Mărăşeşti,106
-550,6100826,,Suceava - Bucureşti Nord Gr.A,102
-551,6100826,,Constanţa - Mangalia,106
-552,6100826,,Bucureşti Nord Gr.A - Braşov,106
-553,6100826,,Brad Hm. - Arad,106
-554,6100826,,Piatra Olt - Râmnicu Vâlcea,106
-555,6100826,,Sibiu - Teiuş,106
-556,6100826,,Braşov - Bucureşti Nord Gr.A,106
-557,6100826,,Bucureşti Progresu - Bucureşti Nord Gr.A,106
-558,6100826,,Baia Mare - Cluj Napoca,106
-559,6100826,,Piteşti - Craiova,106
-560,6100826,,Craiova - Calafat,106
-561,6100826,,Craiova - Roşiori Nord,106
-562,6100826,,Timişoara Nord - Stamora Moravita,106
-563,6100826,,Târgovişte - Titu,106
-564,6100826,,Constanţa - Tulcea Oraş,106
-565,6100826,,Botoşani - Suceava Nord,106
-566,6100826,,Constanţa - Mangalia,106
-567,6100826,,Bucureşti Nord Gr.A - Slobozia Veche,106
-568,6100826,,Timişoara Nord - Stamora Moravita,106
-569,6100826,,Periam - Timişoara Nord,106
-570,6100826,,Buzău - Galaţi,106
-571,6100826,,Copşa Mică - Sibiu,106
-572,6100826,,Bucureşti Nord Gr.A - Constanţa,103
-573,6100826,,Arad - Radna,106
-574,6100826,,Târgu Mureş - Cluj Napoca,103
-575,6100826,,Suceava - Botoşani,106
-576,6100826,,Cluj Napoca - Bucureşti Nord Gr.A,102
-577,6100826,,Filiaşi - Drobeta Tr. Severin,106
-578,6100826,,Halmeu - Oradea,106
-579,6100826,,Bucureşti Nord Gr.A - Braşov,106
-580,6100826,,Călăraşi Sud - Ciulniţa,106
-581,6100826,,Paşcani - Adjud,106
-582,6100826,,Giurgiu - Bucureşti Progresu,106
-583,6100826,,Oradea - Constanţa,105
-584,6100826,,Făurei - Buzău,106
-585,6100826,,Bucureşti Nord Gr.A - Iaşi,103
-586,6100826,,Oradea - Jibou,106
-587,6100826,,Arad - Brad Hm.,106
-588,6100826,,Braşov - Constanţa,102
-589,6100826,,Corabia - Piatra Olt,106
-590,6100826,,Paşcani - Bacău,106
-591,6100826,,Mărăşeşti - Buzău,106
-592,6100826,,Arad - Simeria,106
-593,6100826,,Paşcani - Mărăşeşti,106
-594,6100826,,Salonta - Kotegyan,106
-595,6100826,,Feteşti - Constanţa,106
-596,6100826,,Bacău - Iaşi,106
-597,6100826,,Mediaş - Cluj Napoca,106
-598,6100826,,Simeria - Cluj Napoca,106
-599,6100826,,Bucureşti Nord Gr.B - Braşov,106
-600,6100826,,Braşov - Făgăraş,106
-601,6100826,,Iaşi - Ungheni Prut Hm.,106
-602,6100826,,Constanţa - Călăraşi Sud,106
-603,6100826,,Craiova - Târgu Jiu,106
-604,6100826,,Timişoara Nord - Iaşi,105
-605,6100826,,Cluj Napoca - Simeria,106
-606,6100826,,Anina - Oraviţa,106
-607,6100826,,Carei - Jibou,106
-608,6100826,,Simeria - Deva,106
-609,6100826,,Buzău - Galaţi,106
-610,6100826,,Timişoara Nord - Periam,106
-611,6100826,,Ciulniţa - Călăraşi Sud,106
-612,6100826,,Cluj Napoca - Baia Mare,106
-613,6100826,,Odorhei - Sighişoara,106
-614,6100826,,Jibou - Satu Mare,106
-615,6100826,,Urziceni - Slobozia Veche,106
-616,6100826,,Bucureşti Nord Gr.A - Buzău,106
-617,6100826,,Iaşi - Timişoara Nord,105
-618,6100826,,Beia Hm. - Sibiu,106
-619,6100826,,Reşiţa Sud Hm. - Caransebeş,106
-620,6100826,,Lokoshaza - Cluj Napoca,103
-621,6100826,,Bucureşti Nord Gr.A - Roşiori Nord,106
-622,6100826,,Deda - Târgu Mureş,103
-623,6100826,,Bucureşti Nord Gr.A - Ploieşti Sud,106
-624,6100826,,Comăneşti - Mărăşeşti,106
-625,6100826,,Simeria - Săvârşin,106
-626,6100826,,Bacău - Piatra Neamţ,103
-627,6100826,,Piteşti - Curtea de Argeş,106
-628,6100826,,Timişoara Nord - Băile Herculane,106
-629,6100826,,Oradea - Timişoara Nord,106
-630,6100826,,Târgu Jiu - Craiova,106
-631,6100826,,Ghimeş - Mărăşeşti,106
-632,6100826,,Huedin - Bratca,106
-633,6100826,,Jibou - Săcuieni Bihor,106
-634,6100826,,Braşov - Simeria,103
-635,6100826,,Bucureşti Obor - Feteşti,106
-636,6100826,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
-637,6100826,,Timişoara Nord - Lugoj,106
-638,6100826,,Roşiori Nord - Craiova,106
-639,6100826,,Calafat - Craiova,106
-640,6100826,,Târgu Mureş - Deda,106
-641,6100826,,Vereşti - Botoşani,106
-642,6100826,,Cluj Napoca - Bistriţa Nord,106
-643,6100826,,Satu Mare - Constanţa,105
-644,6100826,,Craiova - Piteşti,106
-645,6100826,,Constanţa - Mangalia,106
-646,6100826,,Galaţi - Bucureşti Nord Gr.A,103
-647,6100826,,Suceava Nord - Iaşi,106
-648,6100826,,Bucureşti Nord Gr.A - Piteşti,106
-649,6100826,,Slobozia Veche - Bucureşti Nord Gr.A,106
-650,6100826,,Craiova - Petroşani,106
-651,6100826,,Sibiu - Făgăraş,106
-652,6100826,,Simeria - Arad,106
-653,6100826,,Teiuş - Târgu Mureş,106
-654,6100826,,Craiova - Târgu Jiu,106
-655,6100826,,Simeria - Teiuş,106
-656,6100826,,Lugoj - Timişoara Nord,106
-657,6100826,,Miercurea Ciuc - Băile Tuşnad Hm.,106
-658,6100826,,Călăraşi Sud - Ciulniţa,106
-659,6100826,,Bucureşti Nord Gr.A - Lokoshaza,105
-660,6100826,,Buzău - Constanţa,106
-661,6100826,,Adjud - Paşcani,106
-662,6100826,,Calafat - Craiova,106
-663,6100826,,Ciulniţa - Slobozia Veche,106
-664,6100826,,Braşov - Bucureşti Nord Gr.A,103
-665,6100826,,Târgu Jiu - Petroşani,106
-666,6100826,,Miercurea Ciuc - Izvoru Mureşului Hm.,106
-667,6100826,,Stamora Moravita - Timişoara Nord,106
-668,6100826,,Constanţa - Mangalia,106
-669,6100826,,Filiaşi - Târgu Jiu,106
-670,6100826,,Călăraşi Sud - Constanţa,106
-671,6100826,,Braşov - Galaţi,103
-672,6100826,,Bucureşti Nord Gr.A - Urziceni,106
-673,6100826,,Bucureşti Obor - Constanţa,106
-674,6100826,,Craiova - Târgu Jiu,106
-675,6100826,,Cluj Napoca - Ciucea Hm.,106
-676,6100826,,Mediaş - Sibiu,106
-677,6100826,,Craiova - Bucureşti Nord Gr.A,103
-678,6100826,,Odorhei - Cristur Hm.,106
-679,6100826,,Suceava Nord - Constanţa,105
-680,6100826,,Bacău - Paşcani,106
-681,6100826,,Craiova - Piatra Olt,106
-682,6100826,,Râmnicu Vâlcea - Sibiu,106
-683,6100826,,Bucureşti Nord Gr.A - Lokoshaza,105
-684,6100826,,Constanţa - Iaşi,105
-685,6100826,,Timişoara Nord - Caransebeş,106
-686,6100826,,Ruse - Bucureşti Nord Gr.A,103
-687,6100826,,Sighetu Marmaţiei - Vişeu de Jos,106
-688,6100826,,Bucureşti Nord Gr.A - Mărăşeşti,106
-689,6100826,,Mangalia - Constanţa,106
-690,6100826,,Sibiu - Craiova,106
-691,6100826,,Piteşti - Bucureşti Nord Gr.A,106
-692,6100826,,Sibiu - Caracal,106
-693,6100826,,Braşov - Miercurea Ciuc,106
-694,6100826,,Deda - Târgu Mureş,106
-695,6100826,,Craiova - Constanţa,103
-696,6100826,,Mediaş - Teiuş,106
-697,6100826,,Bacău - Adjud,106
-698,6100826,,Satu Mare - Bucureşti Nord Gr.A,105
-699,6100826,,Deda - Siculeni,106
-700,6100826,,Bratca - Oradea,106
-701,6100826,,Craiova - Bucureşti Nord Gr.A,106
-702,6100826,,Feteşti - Bucureşti Obor,106
-703,6100826,,Mărăşeşti - Miercurea Ciuc,106
-704,6100826,,Braşov - Bucureşti Nord Gr.A,106
-705,6100826,,Mărăşeşti - Bacău,106
-706,6100826,,Piatra Olt - Râmnicu Vâlcea,106
-707,6100826,,Orşova - Caransebeş,106
-708,6100826,,Dej Calatori - Beclean pe Someş,106
-709,6100826,,Beclean pe Someş - Cluj Napoca,106
-710,6100826,,Cluj Napoca - Dej Calatori,106
-711,6100826,,Piteşti - Craiova,106
-712,6100826,,Sibiu - Loamneş Hm.,106
-713,6100826,,Nyirabrany - Braşov,103
-714,6100826,,Vatra Dornei - Câmpulung Moldov.,106
-715,6100826,,Galaţi - Mărăşeşti,106
-716,6100826,,Satu Mare - Timişoara Nord,103
-717,6100826,,Cluj Napoca - Beclean pe Someş,106
-718,6100826,,Târgu Jiu - Filiaşi,106
-719,6100826,,Timişoara Nord - Oradea,106
-720,6100826,,Zalău Nord - Jibou,106
-721,6100826,,Sighişoara - Sibiu,106
-722,6100826,,Piteşti - Craiova,106
-723,6100826,,Iaşi - Timişoara Nord,103
-724,6100826,,Simeria - Arad,106
-725,6100826,,Cluj Napoca - Vişeu de Jos,106
-726,6100826,,Botoşani - Suceava Nord,106
-727,6100826,,Târgu Neamţ Hm. - Iaşi,106
-728,6100826,,Tecuci - Iaşi,106
-729,6100826,,Braşov - Nyirabrany,103
-730,6100826,,Bucureşti Nord Gr.A - Deva,103
-731,6100826,,Teiuş - Cluj Napoca,106
-732,6100826,,Craiova - Bucureşti Nord Gr.A,106
-733,6100826,,Baia Mare - Cluj Napoca,106
-734,6100826,,Sighetu Marmaţiei - Vişeu de Jos,106
-735,6100826,,Baia Mare - Cluj Napoca,106
-736,6100826,,Simeria - Arad,106
-737,6100826,,Slobozia Veche - Urziceni,106
-738,6100826,,Sighişoara - Odorhei,106
-739,6100826,,Târgovişte - Bucureşti Nord Gr.A,106
-740,6100826,,Arad - Simeria,106
-741,6100826,,Siculeni - Braşov,106
-742,6100826,,Satu Mare - Oradea,106
-743,6100826,,Târgu Mureş - Braşov,103
-744,6100826,,Bucureşti Nord Gr.A - Constanţa,103
-745,6100826,,Corabia - Slatina,106
-746,6100826,,Slatina - Piatra Olt,106
-747,6100826,,Constanţa - Bucureşti Nord Gr.A,102
-748,6100826,,Piteşti - Bucureşti Nord Gr.A,106
-749,6100826,,Medgidia - Tulcea Oraş,106
-750,6100826,,Buzău - Adjud,106
-751,6100826,,Piteşti - Piatra Olt,106
-752,6100826,,Vatra Dornei Băi hc. - Bucureşti Nord Gr.A,105
-753,6100826,,Bucureşti Nord Gr.A - Urziceni,106
-754,6100826,,Lokoshaza - Timişoara Nord,103
-755,6100826,,Nyirabrany - Braşov,105
-756,6100826,,Braşov - Cluj Napoca,105
-757,6100826,,Târgu Mureş - Sibiu,106
-758,6100826,,Constanţa - Tulcea Oraş,106
-759,6100826,,Arad - Oradea,105
-760,6100826,,Mărăşeşti - Galaţi,106
-761,6100826,,Carei - Zalău Nord,106
-762,6100826,,Urziceni - Bucureşti Nord Gr.A,106
-763,6100826,,Arad - Chişineu Criş,106
-764,6100826,,Lokoshaza - Bucureşti Nord Gr.A,105
-765,6100826,,Piatra Olt - Caracal,106
-766,6100826,,Braşov - Constanţa,103
-767,6100826,,Timişoara Nord - Lokoshaza,103
-768,6100826,,Ilva Mică - Beclean pe Someş,106
-769,6100826,,Buzău - Constanţa,106
-770,6100826,,Ilva Mică - Dej Calatori,106
-771,6100826,,Bucureşti Nord Gr.A - Constanţa,103
-772,6100826,,Sibiu - Craiova,106
-773,6100826,,Sibiu - Mediaş,106
-774,6100826,,Cluj Napoca - Bucureşti Nord Gr.A,103
-775,6100826,,Craiova - Petroşani,106
-776,6100826,,Botoşani - Vereşti,106
-777,6100826,,Braşov - Bucureşti Nord Gr.A,103
-778,6100826,,Cluj Napoca - Jibou,106
-779,6100826,,Bârlad - Iaşi,106
-780,6100826,,Lotru - Piatra Olt,106
-781,6100826,,Bucureşti Nord Gr.A - Braşov,106
-782,6100826,,Bacău - Bucureşti Nord Gr.A,103
-783,6100826,,Craiova - Drobeta Tr. Severin,106
-784,6100826,,Târgu Mureş - Deda,103
-785,6100826,,Sibiu - Ucea,106
-786,6100826,,Suceava - Cacica Hm.,106
-787,6100826,,Paşcani - Bacău,106
-788,6100826,,Miercurea Ciuc - Siculeni,106
-789,6100826,,Constanţa - Mangalia,106
-790,6100826,,Piatra Neamţ - Bacău,103
-791,6100826,,Oneşti - Buzău,106
-792,6100826,,Bucureşti Nord Gr.A - Suceava,103
-793,6100826,,Sighişoara - Beia Hm.,106
-794,6100826,,Iaşi - Bârlad,106
-795,6100826,,Sibiu - Copşa Mică,106
-796,6100826,,Buzău - Bucureşti Nord Gr.B,106
-797,6100826,,Galaţi - Bucureşti Nord Gr.A,103
-798,6100826,,Constanţa - Braşov,103
-799,6100826,,Adjud - Paşcani,106
-800,6100826,,Băileşti - Craiova,106
-801,6100826,,Constanţa - Medgidia,106
-802,6100826,,Iaşi - Bacău,106
-803,6100826,,Miercurea Ciuc - Mărăşeşti,106
-804,6100826,,Lugoj - Margina,106
-805,6100826,,Cluj Napoca - Iaşi,103
-806,6100826,,Loamneş Hm. - Sibiu,106
-807,6100826,,Parcul Kreţulescu h. - Goleşti,106
-808,6100826,,Sântana - Arad,106
-809,6100826,,Sibiu - Braşov,106
-810,6100826,,Mărăşeşti - Bucureşti Nord Gr.A,106
-811,6100826,,Braşov - Sfântu Gheorghe,106
-812,6100826,,Constanţa - Buzău,106
-813,6100826,,Piteşti - Bucureşti Nord Gr.A,106
-814,6100826,,Constanţa - Satu Mare,105
-815,6100826,,Bucureşti Nord Gr.A - Buzău,106
-816,6100826,,Timişoara Nord - Arad,106
-817,6100826,,Sibiu - Târgu Mureş,106
-818,6100826,,Oneşti - Mărăşeşti,106
-819,6100826,,Bucureşti Nord Gr.A - Galaţi,103
-820,6100826,,Arad - Gurahont,106
-821,6100826,,Constanţa - Mangalia,106
-822,6100826,,Roşiori Nord - Bucureşti Nord Gr.A,106
-823,6100826,,Adjud - Comăneşti,106
-824,6100826,,Bucureşti Nord Gr.A - Bucureşti Obor,106
-825,6100826,,Satu Mare - Jibou,106
-826,6100826,,Jibou - Oradea,106
-827,6100826,,Siculeni - Focşani,106
-828,6100826,,Beclean pe Someş - Ilva Mică,106
-829,6100826,,Sibiu - Craiova,106
-830,6100826,,Bucureşti Nord Gr.A - Ploieşti Sud,106
-831,6100826,,Comăneşti - Buzău,106
-832,6100826,,Târgu Mureş - Teiuş,106
-833,6100826,,Bucureşti Nord Gr.B - Târgovişte,106
-834,6100826,,Păuşa h. - Caracal,106
-835,6100826,,Oradea - Arad,106
-836,6100826,,Sibiu - Bucureşti Nord Gr.A,103
-837,6100826,,Braşov - Bucureşti Nord Gr.A,106
-838,6100826,,Bucureşti Nord Gr.A - Piteşti,106
-839,6100826,,Petroşani - Craiova,106
-840,6100826,,Iaşi - Ungheni Prut Hm.,106
-841,6100826,,Iaşi - Galaţi,103
-842,6100826,,Bucureşti Nord Gr.A - Suceava Nord,103
-843,6100826,,Caransebeş - Reşiţa Sud Hm.,106
-844,6100826,,Suceava - Bucureşti Nord Gr.A,103
-845,6100826,,Buzău - Bucureşti Nord Gr.B,106
-846,6100826,,Sibiu - Braşov,106
-847,6100826,,Odorhei - Cristur Hm.,106
-848,6100826,,Caracal - Sibiu,106
-849,6100826,,Roşiori Nord - Bucureşti Nord Gr.B,106
-850,6100826,,Sibiu - Piatra Olt,106
-851,6100826,,Jibou - Satu Mare,106
-852,6100826,,Bucureşti Nord Gr.A - Cluj Napoca,103
-853,6100826,,Teiuş - Arad,102
-854,6100826,,Drobeta Tr. Severin - Craiova,106
-855,6100826,,Piatra Olt - Sibiu,106
-856,6100826,,Piatra Olt - Craiova,106
-857,6100826,,Craiova - Caracal,106
-858,6100826,,Slobozia Veche - Ciulniţa,106
-859,6100826,,Cristur Hm. - Odorhei,106
-860,6100826,,Cristur Hm. - Odorhei,106
-861,6100826,,Bucureşti Nord Gr.A - Vatra Dornei Băi hc.,105
-862,6100826,,Bucureşti Obor - Bucureşti Nord Gr.A,106
-863,6100826,,Teiuş - Mediaş,106
-864,6100826,,Constanţa - Mangalia,106
-865,6100826,,Ucea - Sibiu,106
-866,6100826,,Galaţi - Cluj Napoca,103
-867,6100826,,Slobozia Veche - Ciulniţa,106
-868,6100826,,Topliţa - Braşov,106
-869,6100826,,Bucureşti Nord Gr.A - Galaţi,103
-870,6100826,,Curtea de Argeş - Piteşti,106
-871,6100826,,Iaşi - Paşcani,103
-872,6100826,,Craiova - Târgu Jiu,106
-873,6100826,,Oraviţa - Anina,106
-874,6100826,,Târgovişte - Titu,106
-875,6100826,,Mărăşeşti - Ghimeş,106
-876,6100826,,Suceava Nord - Bucureşti Nord Gr.A,103
-877,6100826,,Cluj Napoca - Bucureşti Nord Gr.A,103
-878,6100826,,Constanţa - Mangalia,106
-879,6100826,,Bucureşti Nord Gr.A - Constanţa,102
-880,6100826,,Târgu Jiu - Craiova,106
-881,6100826,,Constanţa - Buzău,103
-882,6100826,,Petroşani - Craiova,106
-883,6100826,,Bistriţa Nord - Dej Calatori,106
-884,6100826,,Bucureşti Nord Gr.A - Lokoshaza,105
-885,6100826,,Arad - Timişoara Nord,106
-886,6100826,,Bucureşti Nord Gr.A - Galaţi,102
-887,6100826,,Piatra Olt - Piteşti,106
-888,6100826,,Simeria - Braşov,103
-889,6100826,,Ilva Mică - Cluj Napoca,106
-890,6100826,,Arad - Sântana,106
-891,6100826,,Timişoara Nord - Lovrin,106
-892,6100826,,Oradea - Arad,105
-893,6100826,,Simeria - Arad,106
-894,6100826,,Pui - Petroşani,106
-895,6100826,,Constanţa - Braşov,103
-896,6100826,,Galaţi - Braşov,103
-897,6100826,,Simeria - Lugoj,106
-898,6100826,,Craiova - Bucureşti Nord Gr.A,106
-899,6100826,,Sighetu Marmaţiei - Beclean pe Someş,106
-900,6100826,,Bucureşti Nord Gr.A - Craiova,103
-901,6100826,,Urziceni - Bucureşti Nord Gr.A,106
-902,6100826,,Craiova - Lokoshaza,103
-903,6100826,,Medgidia - Constanţa,106
-904,6100826,,Lugoj - Simeria,106
-905,6100826,,Constanţa - Baia Mare,105
-906,6100826,,Bucureşti Nord Gr.A - Târgu Mureş,103
-907,6100826,,Braşov - Gheorgheni,106
-908,6100826,,Iaşi - Cacica Hm.,106
-909,6100826,,Braşov - Sibiu,106
-910,6100826,,Bucureşti Nord Gr.A - Braşov,103
-911,6100826,,Galaţi - Iaşi,103
-912,6100826,,Roşiori Nord - Craiova,106
-913,6100826,,Oradea - Halmeu,106
-914,6100826,,Vidin Patnicheska - Craiova,106
-915,6100826,,Simeria - Arad,106
-916,6100826,,Radna - Arad,106
-917,6100826,,Bucureşti Nord Gr.B - Piteşti,106
-918,6100826,,Bucureşti Nord Gr.A - Craiova,106
-919,6100826,,Mărăşeşti - Galaţi,106
-920,6100826,,Bucureşti Nord Gr.A - Constanţa,103
-921,6100826,,Bucureşti Obor - Feteşti,106
-922,6100826,,Bucureşti Nord Gr.A - Ungheni,105
-923,6100826,,Adjud - Ploieşti Sud,106
-924,6100826,,Braşov - Bucureşti Nord Gr.A,103
-925,6100826,,Satu Mare - Constanţa,105
-926,6100826,,Constanţa - Suceava Nord,105
-927,6100826,,Bucureşti Nord Gr.A - Braşov,106
-928,6100826,,Miercurea Ciuc - Oneşti,106
-929,6100826,,Mediaş - Braşov,106
-930,6100826,,Piatra Olt - Craiova,106
-931,6100826,,Sibiu - Miercurea Sibiu Hm.,106
-932,6100826,,Suceava Nord - Bacău,106
-933,6100826,,Mărăşeşti - Paşcani,106
-934,6100826,,Ungheni Prut Fr. - Bucureşti Nord Gr.A,105
-935,6100826,,Braşov - Iaşi,103
-936,6100826,,Buzău - Constanţa,103
-937,6100826,,Piatra Olt - Piteşti,106
-938,6100826,,Craiova - Petroşani,106
-939,6100826,,Mangalia - Constanţa,106
-940,6100826,,Roşiori Nord - Bucureşti Nord Gr.B,106
-941,6100826,,Gheorgheni - Braşov,106
-942,6100826,,Podu Olt - Piatra Olt,106
-943,6100826,,Reşiţa Sud Hm. - Caransebeş,106
-944,6100826,,Lokoshaza - Craiova,103
-945,6100826,,Craiova - Filiaşi,106
-946,6100826,,Galaţi - Buzău,106
-947,6100826,,Galaţi - Mărăşeşti,106
-948,6100826,,Bucureşti Nord Gr.B - Târgovişte,106
-949,6100826,,Ploieşti Sud - Mărăşeşti,106
-950,6100826,,Lokoshaza - Bucureşti Nord Gr.A,105
-951,6100826,,Parcul Kreţulescu h. - Goleşti,106
-952,6100826,,Simeria - Petroşani,106
-953,6100826,,Braşov - Cluj Napoca,105
-954,6100826,,Oradea - Timişoara Nord,103
-955,6100826,,Sibiu - Constanţa,103
-956,6100826,,Drobeta Tr. Severin - Bucureşti Nord Gr.A,103
-957,6100826,,Bucureşti Nord Gr.A - Suceava,102
-958,6100826,,Braşov - Nyirabrany,105
-959,6100826,,Caracal - Craiova,106
-960,6100826,,Piatra Olt - Potcoava,106
-961,6100826,,Iaşi - Braşov,103
-962,6100826,,Sărmăşag - Zalău Nord,106
-963,6100826,,Drobeta Tr. Severin - Craiova,106
-964,6100826,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
-965,6100826,,Timişoara Nord - Oradea,106
-966,6100826,,Adjud - Mărăşeşti,106
-967,6100826,,Bucureşti Nord Gr.A - Cluj Napoca,103
-968,6100826,,Mărăşeşti - Galaţi,106
-969,6100826,,Deda - Siculeni,106
-970,6100826,,Ilva Mică - Beclean pe Someş,106
-971,6100826,,Craiova - Târgu Jiu,106
-972,6100826,,Arad - Simeria,106
-973,6100826,,Craiova - Sibiu,106
-974,6100826,,Ploieşti Sud - Bucureşti Nord Gr.A,106
-975,6100826,,Săcuieni Bihor - Sărmăşag,106
-976,6100826,,Ilva Mică - Suceava,106
-977,6100826,,Simeria - Petroşani,106
-978,6100826,,Piteşti - Piatra Olt,106
-979,6100826,,Iaşi - Constanţa,105
-980,6100826,,Târgu Jiu - Craiova,106
-981,6100826,,Braşov - Bucureşti Nord Gr.A,106
-982,6100826,,Cluj Napoca - Baia Mare,106
-983,6100826,,Piteşti - Craiova,106
-984,6100826,,Braşov - Bucureşti Nord Gr.A,106
-985,6100826,,Braşov - Topliţa,106
-986,6100826,,Constanţa - Mangalia,106
-987,6100826,,Miercurea Sibiu Hm. - Sibiu,106
-988,6100826,,Titu - Târgovişte,106
-989,6100826,,Craiova - Vidin Patnicheska,106
-990,6100826,,Constanţa - Craiova,103
-991,6100826,,Buzău - Bucureşti Nord Gr.A,106
-992,6100826,,Mărăşeşti - Miercurea Ciuc,106
-993,6100826,,Buzău - Bucureşti Nord Gr.B,106
-994,6100826,,Timişoara Nord - Baia Mare,103
-995,6100826,,Timişoara Nord - Oradea,103
-996,6100826,,Bucureşti Nord Gr.A - Ploieşti Sud,106
-997,6100826,,Petroşani - Craiova,106
-998,6100826,,Cluj Napoca - Târgu Mureş,103
-999,6100826,,Bucureşti Nord Gr.A - Târgovişte,106
-1000,6100826,,Lugoj - Timişoara Nord,106
-1001,6100826,,Dej Calatori - Cluj Napoca,106
-1002,6100826,,Satu Mare - Nyirabrany,106
-1003,6100826,,Bistriţa Nord - Cluj Napoca,106
-1004,6100826,,Ploieşti Sud - Buzău,106
-1005,6100826,,Târgu Jiu - Craiova,106
-1006,6100826,,Pui - Simeria,106
-1007,6100826,,Bucureşti Nord Gr.A - Sibiu,103
-1008,6100826,,Suceava Nord - Botoşani,106
-1009,6100826,,Bucureşti Nord Gr.B - Piteşti,106
-1010,6100826,,Bucureşti Nord Gr.A - Constanţa,106
-1011,6100826,,Braşov - Bucureşti Nord Gr.A,106
-1012,6100826,,Constanţa - Oradea,105
-1013,6100826,,Roşiori Nord - Bucureşti Nord Gr.B,106
-1014,6100826,,Constanţa - Bucureşti Obor,106
-1015,6100826,,Piteşti - Bucureşti Nord Gr.A,106
-1016,6100826,,Bucureşti Nord Gr.A - Timişoara Nord,103
-1017,6100826,,Mangalia - Constanţa,106
-1018,6100826,,Arad - Timişoara Nord,106
-1019,6100826,,Braşov - Gheorgheni,106
-1020,6100826,,Timişoara Nord - Oradea,106
-1021,6100826,,Râmnicu Vâlcea - Sibiu,106
-1022,6100826,,Craiova - Piatra Olt,106
-1023,6100826,,Braşov - Rupea,106
-1024,6100826,,Arad - Bucureşti Nord Gr.A,105
-1025,6100826,,Galaţi - Mărăşeşti,106
-1026,6100826,,Constanţa - Timişoara Nord,105
-1027,6100826,,Timişoara Nord - Bucureşti Nord Gr.A,103
-1028,6100826,,Sighetu Marmaţiei - Beclean pe Someş,106
+route_long_name,route_short_name,agency_id,route_type,route_id
+Adjud - Bucureşti Nord Gr.A,,228389,106,206
+Adjud - Comăneşti,,6100826,106,823
+Adjud - Mărăşeşti,,6100826,106,966
+Adjud - Paşcani,,6100826,106,799
+Adjud - Ploieşti Sud,,6100826,106,923
+Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,,228389,106,245
+Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,,6100826,106,636
+Aghireş - Cluj Napoca,,228389,106,241
+Alba Iulia - Zlatna hcv.,,227098,106,108
+Alexandria - Roşiori Nord,,6100826,106,286
+Aleşd - Oradea,,236037,106,57
+Anina - Oraviţa,,6100826,106,606
+Apa Hm. - Satu Mare,,6100826,106,276
+Arad - Brad Hm.,,6100826,106,587
+Arad - Bucureşti Nord Gr.A,,200000,105,19
+Arad - Bucureşti Nord Gr.A,,6100826,105,1024
+Arad - Caransebeş,,236037,106,43
+Arad - Chişineu Criş,,6100826,106,763
+Arad - Constanţa,,200000,105,11
+Arad - Curtici,,6100826,106,325
+Arad - Gurahont,,6100826,106,820
+Arad - Lokoshaza,,6100826,103,476
+Arad - Nădlac,,227098,106,127
+Arad - Oradea,,6100826,105,759
+Arad - Oradea,,6100826,106,300
+Arad - Radna,,6100826,106,573
+Arad - Simeria,,6100826,106,592
+Arad - Sânnicolau Mare Hm.,,227098,106,130
+Arad - Sântana,,6100826,106,890
+Arad - Teiuş,,6100826,102,373
+Arad - Timişoara Nord,,6100826,106,885
+Bacău - Adjud,,6100826,106,697
+Bacău - Bicaz,,6100826,106,538
+Bacău - Bucureşti Nord Gr.A,,6100826,103,782
+Bacău - Iaşi,,6100826,106,596
+Bacău - Paşcani,,6100826,106,680
+Bacău - Piatra Neamţ,,6100826,103,626
+Bacău - Piatra Neamţ,,6100826,106,411
+Bacău - Suceava Nord,,6100826,106,447
+Baia Mare - Cluj Napoca,,6100826,106,400
+Baia Mare - Jibou,,236037,106,39
+Baia Mare - Nyirabrany,,6100826,103,422
+Baia Mare - Satu Mare,,236037,106,76
+Baia Mare - Timişoara Nord,,6100826,103,534
+Beclean pe Someş - Bistriţa Nord,,236037,106,78
+Beclean pe Someş - Cluj Napoca,,6100826,106,709
+Beclean pe Someş - Ilva Mică,,6100826,106,828
+Beclean pe Someş - Lunca Ilvei,,236037,106,89
+Beclean pe Someş - Sighetu Marmaţiei,,6100826,106,395
+Beia Hm. - Sibiu,,6100826,106,618
+Bereşti Hm. - Chiraftei h.,,228389,106,243
+Bereşti Hm. - Târgu Bujor,,228389,106,262
+Bicaz - Piatra Neamţ,,6100826,106,390
+Biharkeresztes - Oradea,,6100826,106,290
+Bistriţa Bârgăului hcv. - Bistriţa Nord,,236037,106,22
+Bistriţa Nord - Bistriţa Bârgăului hcv.,,236037,106,37
+Bistriţa Nord - Cluj Napoca,,236037,106,52
+Bistriţa Nord - Cluj Napoca,,6100826,106,337
+Bistriţa Nord - Deda,,6100826,106,424
+Bistriţa Nord - Dej Calatori,,6100826,106,282
+Bistriţa Nord - Luduş,,227098,106,173
+Bistriţa Nord - Lunca Ilvei,,236037,106,92
+Bistriţa Nord - Miceştii de Câmpie h.,,227098,106,182
+Bistriţa Nord - Sărmaşel hcv.,,227098,106,163
+Bistriţa Nord - Sărăţel,,6100826,106,362
+Bistriţa Nord - Vatra Dornei,,6100826,106,267
+Blaj - Bălăuşeri hcv.,,227098,106,114
+Blaj - Târnăveni,,227098,106,99
+Bonţida Hm. - Cluj Napoca,,228389,106,215
+Botoşani - Suceava,,6100826,106,525
+Botoşani - Suceava Nord,,6100826,106,726
+Botoşani - Vereşti,,6100826,106,776
+Brad Hm. - Arad,,6100826,106,553
+Bratca - Huedin,,6100826,106,316
+Bratca - Oradea,,236037,106,36
+Bratca - Oradea,,6100826,106,700
+Brazi - Buzău,,6100826,106,524
+Braşov - Breţcu Hm.,,227098,106,94
+Braşov - Bucureşti Nord Gr.A,,200000,103,15
+Braşov - Bucureşti Nord Gr.A,,227098,106,126
+Braşov - Bucureşti Nord Gr.A,,228389,103,236
+Braşov - Bucureşti Nord Gr.A,,236025,106,190
+Braşov - Bucureşti Nord Gr.A,,6100826,103,664
+Braşov - Bucureşti Nord Gr.A,,6100826,106,704
+Braşov - Cluj Napoca,,228389,103,222
+Braşov - Cluj Napoca,,6100826,105,953
+Braşov - Constanţa,,6100826,102,588
+Braşov - Constanţa,,6100826,103,766
+Braşov - Făgăraş,,6100826,106,600
+Braşov - Galaţi,,6100826,103,671
+Braşov - Gheorgheni,,6100826,106,429
+Braşov - Iaşi,,6100826,103,935
+Braşov - Mangalia,,227098,103,158
+Braşov - Mediaş,,6100826,106,438
+Braşov - Miercurea Ciuc,,6100826,106,693
+Braşov - Nyirabrany,,6100826,103,729
+Braşov - Nyirabrany,,6100826,105,958
+Braşov - Ploieşti Sud,,6100826,106,421
+Braşov - Rupea,,6100826,106,1023
+Braşov - Sfântu Gheorghe,,6100826,106,811
+Braşov - Sibiu,,6100826,106,497
+Braşov - Siculeni,,6100826,106,461
+Braşov - Simeria,,6100826,103,634
+Braşov - Topliţa,,6100826,106,985
+Braşov - Zărneşti,,227098,106,106
+Braşov - Întorsura Buzăului Hm,,227098,106,116
+Breţcu Hm. - Braşov,,227098,106,144
+Breţcu Hm. - Sfântu Gheorghe,,227098,106,135
+Bucureşti Nord Gr.A - Adjud,,228389,106,238
+Bucureşti Nord Gr.A - Aeroport H. Coanda T1,,228389,106,207
+Bucureşti Nord Gr.A - Aeroport H. Coanda T1,,6100826,106,456
+Bucureşti Nord Gr.A - Arad,,200000,105,17
+Bucureşti Nord Gr.A - Arad,,6100826,105,363
+Bucureşti Nord Gr.A - Bacău,,6100826,103,466
+Bucureşti Nord Gr.A - Braşov,,200000,103,13
+Bucureşti Nord Gr.A - Braşov,,227098,106,97
+Bucureşti Nord Gr.A - Braşov,,228389,103,211
+Bucureşti Nord Gr.A - Braşov,,236025,106,188
+Bucureşti Nord Gr.A - Braşov,,6100826,103,537
+Bucureşti Nord Gr.A - Braşov,,6100826,106,579
+Bucureşti Nord Gr.A - Bucureşti Obor,,6100826,106,824
+Bucureşti Nord Gr.A - Bucureşti Progresu,,6100826,106,326
+Bucureşti Nord Gr.A - Buzău,,228389,106,226
+Bucureşti Nord Gr.A - Buzău,,6100826,106,443
+Bucureşti Nord Gr.A - Cluj Napoca,,6100826,102,355
+Bucureşti Nord Gr.A - Cluj Napoca,,6100826,103,967
+Bucureşti Nord Gr.A - Constanţa,,227098,106,187
+Bucureşti Nord Gr.A - Constanţa,,228389,103,250
+Bucureşti Nord Gr.A - Constanţa,,236025,103,196
+Bucureşti Nord Gr.A - Constanţa,,6100826,102,879
+Bucureşti Nord Gr.A - Constanţa,,6100826,103,744
+Bucureşti Nord Gr.A - Constanţa,,6100826,106,1010
+Bucureşti Nord Gr.A - Craiova,,236025,106,195
+Bucureşti Nord Gr.A - Craiova,,6100826,103,492
+Bucureşti Nord Gr.A - Craiova,,6100826,106,498
+Bucureşti Nord Gr.A - Deva,,6100826,103,730
+Bucureşti Nord Gr.A - Drobeta Tr. Severin,,6100826,103,334
+Bucureşti Nord Gr.A - Feteşti,,228389,106,258
+Bucureşti Nord Gr.A - Galaţi,,228389,103,254
+Bucureşti Nord Gr.A - Galaţi,,6100826,102,886
+Bucureşti Nord Gr.A - Galaţi,,6100826,103,819
+Bucureşti Nord Gr.A - Iaşi,,6100826,103,453
+Bucureşti Nord Gr.A - Iaşi,,6100826,105,540
+Bucureşti Nord Gr.A - Iaşi,,916191,102,5
+Bucureşti Nord Gr.A - Lokoshaza,,6100826,105,884
+Bucureşti Nord Gr.A - Mangalia,,200000,103,14
+Bucureşti Nord Gr.A - Mangalia,,228389,103,247
+Bucureşti Nord Gr.A - Mărăşeşti,,6100826,106,688
+Bucureşti Nord Gr.A - Pietroşiţa Hm.,,228389,106,264
+Bucureşti Nord Gr.A - Piteşti,,6100826,106,512
+Bucureşti Nord Gr.A - Ploieşti Sud,,228389,106,224
+Bucureşti Nord Gr.A - Ploieşti Sud,,6100826,106,623
+Bucureşti Nord Gr.A - Roşiori Nord,,228389,106,237
+Bucureşti Nord Gr.A - Roşiori Nord,,6100826,106,621
+Bucureşti Nord Gr.A - Ruse,,6100826,105,354
+Bucureşti Nord Gr.A - Satu Mare,,6100826,105,302
+Bucureşti Nord Gr.A - Sibiu,,6100826,103,1007
+Bucureşti Nord Gr.A - Slobozia Veche,,6100826,106,567
+Bucureşti Nord Gr.A - Suceava,,6100826,102,957
+Bucureşti Nord Gr.A - Suceava,,6100826,103,792
+Bucureşti Nord Gr.A - Suceava,,916191,102,9
+Bucureşti Nord Gr.A - Suceava Nord,,6100826,103,842
+Bucureşti Nord Gr.A - Timişoara Nord,,6100826,103,1016
+Bucureşti Nord Gr.A - Titu,,200000,103,12
+Bucureşti Nord Gr.A - Târgovişte,,228389,106,228
+Bucureşti Nord Gr.A - Târgovişte,,6100826,106,426
+Bucureşti Nord Gr.A - Târgu Mureş,,6100826,103,906
+Bucureşti Nord Gr.A - Ungheni,,6100826,105,922
+Bucureşti Nord Gr.A - Urziceni,,6100826,106,753
+Bucureşti Nord Gr.A - Vatra Dornei Băi hc.,,6100826,105,861
+Bucureşti Nord Gr.B - Braşov,,6100826,106,599
+Bucureşti Nord Gr.B - Piteşti,,6100826,106,917
+Bucureşti Nord Gr.B - Roşiori Nord,,6100826,106,377
+Bucureşti Nord Gr.B - Târgovişte,,6100826,106,948
+Bucureşti Obor - Bucureşti Nord Gr.A,,6100826,106,862
+Bucureşti Obor - Constanţa,,6100826,106,673
+Bucureşti Obor - Feteşti,,6100826,106,635
+Bucureşti Progresu - Bucureşti Nord Gr.A,,6100826,106,557
+Bucureşti Progresu - Giurgiu,,6100826,106,292
+Buhăieşti - Dagâţa,,227098,106,185
+Buhăieşti - Roman,,227098,106,95
+Buziaş - Lugoj,,6100826,106,371
+Buziaş - Timişoara Nord,,6100826,106,535
+Buzău - Adjud,,6100826,106,750
+Buzău - Brazi,,6100826,106,331
+Buzău - Bucureşti Nord Gr.A,,228389,106,263
+Buzău - Bucureşti Nord Gr.A,,6100826,106,523
+Buzău - Bucureşti Nord Gr.B,,6100826,106,993
+Buzău - Constanţa,,6100826,103,936
+Buzău - Constanţa,,6100826,106,769
+Buzău - Galaţi,,6100826,106,570
+Buzău - Mangalia,,228389,103,252
+Buzău - Mărăşeşti,,6100826,106,518
+Buzău - Nehoiaşu Hm.,,228389,106,220
+Buzău - Ploieşti Sud,,6100826,106,341
+Bârlad - Chiraftei h.,,228389,106,199
+Bârlad - Iaşi,,6100826,106,779
+Bârlad - Târgu Bujor,,228389,106,216
+Băile Herculane - Caransebeş,,6100826,106,487
+Băile Tuşnad Hm. - Siculeni,,6100826,106,327
+Băileşti - Craiova,,6100826,106,800
+Bălăuşeri hcv. - Blaj,,227098,106,159
+Bălăuşeri hcv. - Târnăveni,,227098,106,176
+Cacica Hm. - Iaşi,,6100826,106,519
+Cacica Hm. - Suceava,,6100826,106,501
+Calafat - Craiova,,6100826,106,639
+Caracal - Craiova,,6100826,106,959
+Caracal - Păuşa h.,,6100826,106,388
+Caracal - Sibiu,,6100826,106,848
+Caransebeş - Arad,,236037,106,77
+Caransebeş - Orşova,,6100826,106,281
+Caransebeş - Reşiţa Sud Hm.,,6100826,106,463
+Caransebeş - Timişoara Nord,,6100826,106,423
+Carei - Jibou,,6100826,106,607
+Carei - Zalău Nord,,6100826,106,761
+Cenad h. - Sânnicolau Mare Hm.,,227098,106,113
+Chiraftei h. - Bereşti Hm.,,228389,106,233
+Chiraftei h. - Bârlad,,228389,106,201
+Chiraftei h. - Târgu Bujor,,228389,106,225
+Ciucea Hm. - Cluj Napoca,,6100826,106,358
+Ciulniţa - Călăraşi Sud,,6100826,106,611
+Ciulniţa - Slobozia Veche,,6100826,106,323
+Cluj Napoca - Aghireş,,228389,106,219
+Cluj Napoca - Baia Mare,,6100826,106,982
+Cluj Napoca - Beclean pe Someş,,6100826,106,717
+Cluj Napoca - Bistriţa Nord,,236037,106,61
+Cluj Napoca - Bistriţa Nord,,6100826,106,425
+Cluj Napoca - Bonţida Hm.,,228389,106,234
+Cluj Napoca - Braşov,,228389,103,253
+Cluj Napoca - Braşov,,6100826,105,369
+Cluj Napoca - Bucureşti Nord Gr.A,,6100826,102,576
+Cluj Napoca - Bucureşti Nord Gr.A,,6100826,103,774
+Cluj Napoca - Ciucea Hm.,,6100826,106,675
+Cluj Napoca - Câmpia Turzii,,236037,106,26
+Cluj Napoca - Dej Calatori,,236037,106,60
+Cluj Napoca - Dej Calatori,,6100826,106,710
+Cluj Napoca - Galaţi,,6100826,103,335
+Cluj Napoca - Huedin,,236037,106,27
+Cluj Napoca - Huedin,,6100826,106,545
+Cluj Napoca - Iaşi,,6100826,103,805
+Cluj Napoca - Jibou,,6100826,106,778
+Cluj Napoca - Lokoshaza,,6100826,103,479
+Cluj Napoca - Mediaş,,6100826,106,471
+Cluj Napoca - Oradea,,228389,106,200
+Cluj Napoca - Oradea,,236037,106,80
+Cluj Napoca - Oradea,,6100826,103,309
+Cluj Napoca - Oradea,,6100826,106,306
+Cluj Napoca - Sibiu,,236037,106,30
+Cluj Napoca - Simeria,,6100826,106,605
+Cluj Napoca - Stana Hm.,,236037,106,64
+Cluj Napoca - Teiuş,,6100826,106,509
+Cluj Napoca - Târgu Mureş,,236037,106,56
+Cluj Napoca - Târgu Mureş,,6100826,103,998
+Cluj Napoca - Vişeu de Jos,,6100826,106,725
+Comăneşti - Buzău,,6100826,106,831
+Comăneşti - Miercurea Ciuc,,6100826,106,278
+Comăneşti - Mărăşeşti,,6100826,106,624
+Constanţa - Arad,,200000,105,16
+Constanţa - Baia Mare,,6100826,105,905
+Constanţa - Braşov,,6100826,102,345
+Constanţa - Braşov,,6100826,103,798
+Constanţa - Bucureşti Nord Gr.A,,227098,106,181
+Constanţa - Bucureşti Nord Gr.A,,228389,103,221
+Constanţa - Bucureşti Nord Gr.A,,236025,103,192
+Constanţa - Bucureşti Nord Gr.A,,6100826,102,747
+Constanţa - Bucureşti Nord Gr.A,,6100826,103,467
+Constanţa - Bucureşti Nord Gr.A,,6100826,106,529
+Constanţa - Bucureşti Obor,,6100826,106,1014
+Constanţa - Buzău,,6100826,103,881
+Constanţa - Buzău,,6100826,106,812
+Constanţa - Craiova,,6100826,103,990
+Constanţa - Călăraşi Sud,,6100826,106,602
+Constanţa - Feteşti,,6100826,106,401
+Constanţa - Galaţi,,6100826,103,402
+Constanţa - Iaşi,,6100826,105,684
+Constanţa - Mangalia,,6100826,106,551
+Constanţa - Medgidia,,6100826,106,801
+Constanţa - Oradea,,6100826,105,1012
+Constanţa - Satu Mare,,6100826,105,814
+Constanţa - Sibiu,,6100826,103,514
+Constanţa - Suceava Nord,,6100826,105,926
+Constanţa - Timişoara Nord,,6100826,105,1026
+Constanţa - Tulcea Oraş,,6100826,106,758
+Copşa Mică - Sibiu,,6100826,106,571
+Corabia - Piatra Olt,,6100826,106,589
+Corabia - Slatina,,6100826,106,745
+Craiova - Bucureşti Nord Gr.A,,236025,106,197
+Craiova - Bucureşti Nord Gr.A,,6100826,103,677
+Craiova - Bucureşti Nord Gr.A,,6100826,106,701
+Craiova - Băileşti,,6100826,106,365
+Craiova - Calafat,,6100826,106,504
+Craiova - Caracal,,6100826,106,857
+Craiova - Constanţa,,6100826,103,695
+Craiova - Drobeta Tr. Severin,,6100826,106,432
+Craiova - Filiaşi,,6100826,106,945
+Craiova - Lokoshaza,,6100826,103,902
+Craiova - Petroşani,,6100826,106,650
+Craiova - Piatra Olt,,6100826,106,681
+Craiova - Piteşti,,6100826,106,644
+Craiova - Roşiori Nord,,6100826,106,333
+Craiova - Sibiu,,6100826,106,973
+Craiova - Târgu Jiu,,6100826,106,603
+Craiova - Vidin Patnicheska,,6100826,106,989
+Cristur Hm. - Odorhei,,6100826,106,859
+Cruceni hcv. - Timişoara Nord,,227098,106,119
+Curtea de Argeş - Piteşti,,6100826,106,870
+Curtici - Arad,,6100826,106,517
+Câmpia Turzii - Cluj Napoca,,236037,106,65
+Câmpia Turzii - Târgu Mureş,,236037,106,34
+Câmpulung Moldov. - Ilva Mică,,6100826,106,381
+Câmpulung Moldov. - Suceava,,6100826,106,379
+Călăraşi Sud - Ciulniţa,,6100826,106,580
+Călăraşi Sud - Constanţa,,6100826,106,670
+Călăraşi Sud - Feteşti,,6100826,106,394
+Dagâţa - Buhăieşti,,227098,106,122
+Dagâţa - Roman,,227098,106,170
+Deda - Bistriţa Nord,,6100826,106,408
+Deda - Miercurea Ciuc,,6100826,106,521
+Deda - Siculeni,,6100826,106,699
+Deda - Târgu Mureş,,236037,106,32
+Deda - Târgu Mureş,,6100826,103,622
+Deda - Târgu Mureş,,6100826,106,694
+Dej Calatori - Beclean pe Someş,,6100826,106,708
+Dej Calatori - Bistriţa Nord,,6100826,106,283
+Dej Calatori - Cluj Napoca,,236037,106,84
+Dej Calatori - Cluj Napoca,,6100826,106,351
+Dej Calatori - Ilva Mică,,6100826,106,404
+Deva - Bucureşti Nord Gr.A,,6100826,103,374
+Deva - Simeria,,6100826,106,317
+Dorohoi - Iaşi,,227098,106,100
+Drobeta Tr. Severin - Bucureşti Nord Gr.A,,6100826,103,956
+Drobeta Tr. Severin - Craiova,,6100826,106,963
+Drobeta Tr. Severin - Filiaşi,,6100826,106,460
+Drăgăneşti Prahova Hm. - Urziceni,,227098,106,178
+Feteşti - Bucureşti Nord Gr.A,,228389,106,240
+Feteşti - Bucureşti Obor,,6100826,106,449
+Feteşti - Constanţa,,6100826,106,595
+Filiaşi - Drobeta Tr. Severin,,6100826,106,577
+Filiaşi - Târgu Jiu,,6100826,106,669
+Făgăraş - Braşov,,6100826,106,393
+Făgăraş - Sibiu,,6100826,106,399
+Făurei - Buzău,,6100826,106,584
+Galaţi - Braşov,,6100826,103,896
+Galaţi - Bucureşti Nord Gr.A,,228389,103,239
+Galaţi - Bucureşti Nord Gr.A,,6100826,102,367
+Galaţi - Bucureşti Nord Gr.A,,6100826,103,646
+Galaţi - Buzău,,6100826,106,946
+Galaţi - Cluj Napoca,,6100826,103,866
+Galaţi - Constanţa,,6100826,103,489
+Galaţi - Iaşi,,6100826,103,911
+Galaţi - Mărăşeşti,,6100826,106,485
+Gheorgheni - Braşov,,6100826,106,941
+Gheorgheni - Miercurea Ciuc,,6100826,106,543
+Ghimeş - Mărăşeşti,,6100826,106,631
+Giurgiu - Bucureşti Progresu,,6100826,106,582
+Giurgiu - Videle,,6100826,106,539
+Goleşti - Parcul Kreţulescu h.,,6100826,106,299
+Gurahont - Arad,,6100826,106,328
+Halmeu - Oradea,,6100826,106,578
+Halmeu - Satu Mare,,236037,106,35
+Huedin - Bratca,,6100826,106,632
+Huedin - Cluj Napoca,,236037,106,21
+Huedin - Cluj Napoca,,6100826,106,500
+Hârlău - Iaşi,,227098,106,123
+Iaşi - Bacău,,6100826,106,446
+Iaşi - Braşov,,6100826,103,961
+Iaşi - Bucureşti Nord Gr.A,,6100826,103,490
+Iaşi - Bucureşti Nord Gr.A,,916191,102,3
+Iaşi - Bârlad,,6100826,106,794
+Iaşi - Cacica Hm.,,6100826,106,908
+Iaşi - Cluj Napoca,,6100826,103,527
+Iaşi - Constanţa,,6100826,105,979
+Iaşi - Dorohoi,,227098,106,107
+Iaşi - Galaţi,,6100826,103,841
+Iaşi - Hârlău,,227098,106,102
+Iaşi - Mărăşeşti,,227098,106,184
+Iaşi - Paşcani,,6100826,103,871
+Iaşi - Paşcani,,6100826,106,444
+Iaşi - Roman,,227098,106,165
+Iaşi - Scânteia Hm.,,6100826,106,329
+Iaşi - Suceava Nord,,227098,106,137
+Iaşi - Suceava Nord,,6100826,106,370
+Iaşi - Tecuci,,6100826,106,520
+Iaşi - Timişoara Nord,,6100826,103,723
+Iaşi - Timişoara Nord,,6100826,105,617
+Iaşi - Truşeşti Hm.,,227098,106,171
+Iaşi - Ungheni,,6100826,106,528
+Iaşi - Ungheni Prut Hm.,,6100826,106,601
+Iaşi - Vaslui,,227098,106,145
+Ilia - Petroşani,,6100826,106,409
+Ilva Mică - Beclean pe Someş,,6100826,106,970
+Ilva Mică - Cluj Napoca,,6100826,106,889
+Ilva Mică - Dej Calatori,,6100826,106,770
+Ilva Mică - Suceava,,6100826,106,976
+Ilva Mică - Vatra Dornei,,6100826,106,513
+Izvoru Mureşului Hm. - Siculeni,,6100826,106,541
+Jibou - Baia Mare,,236037,106,45
+Jibou - Carei,,6100826,106,291
+Jibou - Letca Hm.,,236037,106,68
+Jibou - Oradea,,6100826,106,826
+Jibou - Satu Mare,,6100826,106,851
+Jibou - Săcuieni Bihor,,6100826,106,633
+Jibou - Sărmăşag,,6100826,106,364
+Jibou - Zalău Nord,,6100826,106,474
+Jimbolia - Timişoara Nord,,227098,106,121
+Kotegyan - Salonta,,6100826,106,310
+Letca Hm. - Jibou,,236037,106,28
+Loamneş Hm. - Sibiu,,6100826,106,806
+Lokoshaza - Arad,,6100826,103,442
+Lokoshaza - Bucureşti Nord Gr.A,,6100826,105,764
+Lokoshaza - Cluj Napoca,,6100826,103,620
+Lokoshaza - Craiova,,6100826,103,944
+Lokoshaza - Timişoara Nord,,6100826,103,754
+Lotru - Piatra Olt,,6100826,106,780
+Lovrin - Timişoara Nord,,6100826,106,376
+Luduş - Bistriţa Nord,,227098,106,136
+Luduş - Sărmaşel hcv.,,227098,106,155
+Lugoj - Buziaş,,6100826,106,398
+Lugoj - Margina,,6100826,106,804
+Lugoj - Simeria,,6100826,106,904
+Lugoj - Timişoara Nord,,6100826,106,656
+Lunca Ilvei - Beclean pe Someş,,236037,106,72
+Lunca Ilvei - Bistriţa Nord,,236037,106,69
+Mangalia - Braşov,,227098,103,180
+Mangalia - Bucureşti Nord Gr.A,,200000,103,20
+Mangalia - Bucureşti Nord Gr.A,,228389,103,256
+Mangalia - Buzău,,228389,103,223
+Mangalia - Constanţa,,6100826,106,455
+Mangalia - Suceava,,916191,102,6
+Margina - Lugoj,,6100826,106,477
+Medgidia - Constanţa,,6100826,106,903
+Medgidia - Tulcea Oraş,,6100826,106,749
+Mediaş - Braşov,,6100826,106,929
+Mediaş - Cluj Napoca,,6100826,106,597
+Mediaş - Sibiu,,236037,106,25
+Mediaş - Sibiu,,6100826,106,676
+Mediaş - Teiuş,,6100826,106,696
+Miceştii de Câmpie h. - Bistriţa Nord,,227098,106,175
+Miercurea Ciuc - Băile Tuşnad Hm.,,6100826,106,657
+Miercurea Ciuc - Comăneşti,,6100826,106,482
+Miercurea Ciuc - Deda,,6100826,106,488
+Miercurea Ciuc - Izvoru Mureşului Hm.,,6100826,106,666
+Miercurea Ciuc - Mărăşeşti,,6100826,106,803
+Miercurea Ciuc - Oneşti,,6100826,106,928
+Miercurea Ciuc - Siculeni,,6100826,106,788
+Miercurea Sibiu Hm. - Sibiu,,6100826,106,987
+Măneciu - Ploieşti Sud,,228389,106,198
+Mărăşeşti - Bacău,,6100826,106,705
+Mărăşeşti - Bucureşti Nord Gr.A,,6100826,106,810
+Mărăşeşti - Buzău,,6100826,106,591
+Mărăşeşti - Comăneşti,,6100826,106,360
+Mărăşeşti - Galaţi,,6100826,106,919
+Mărăşeşti - Ghimeş,,6100826,106,875
+Mărăşeşti - Iaşi,,227098,106,149
+Mărăşeşti - Miercurea Ciuc,,6100826,106,703
+Mărăşeşti - Paşcani,,6100826,106,933
+Mărăşeşti - Ploieşti Vest,,227098,106,128
+Mărăşeşti - Siculeni,,6100826,106,439
+Nehoiaşu Hm. - Buzău,,228389,106,202
+Nyirabrany - Baia Mare,,6100826,103,532
+Nyirabrany - Braşov,,6100826,103,713
+Nyirabrany - Braşov,,6100826,105,755
+Nyirabrany - Satu Mare,,6100826,106,493
+Nădlac - Arad,,227098,106,103
+Odorhei - Cristur Hm.,,6100826,106,678
+Odorhei - Sighişoara,,6100826,106,544
+Olteniţa - Titan Sud Hm.,,228389,106,209
+Oneşti - Buzău,,6100826,106,791
+Oneşti - Mărăşeşti,,6100826,106,818
+Oradea - Aleşd,,236037,106,62
+Oradea - Arad,,6100826,105,892
+Oradea - Arad,,6100826,106,835
+Oradea - Biharkeresztes,,6100826,106,305
+Oradea - Bratca,,236037,106,81
+Oradea - Bratca,,6100826,106,324
+Oradea - Cluj Napoca,,228389,106,235
+Oradea - Cluj Napoca,,236037,106,83
+Oradea - Cluj Napoca,,6100826,103,419
+Oradea - Cluj Napoca,,6100826,106,483
+Oradea - Constanţa,,6100826,105,583
+Oradea - Halmeu,,6100826,106,913
+Oradea - Jibou,,6100826,106,586
+Oradea - Satu Mare,,236037,106,75
+Oradea - Timişoara Nord,,236037,106,79
+Oradea - Timişoara Nord,,6100826,103,954
+Oradea - Timişoara Nord,,6100826,106,311
+Oradea - Valea lui Mihai,,236037,106,31
+Oraviţa - Anina,,6100826,106,873
+Orşova - Caransebeş,,6100826,106,707
+Orşova - Timişoara Nord,,6100826,106,318
+Parcul Kreţulescu h. - Goleşti,,6100826,106,951
+Paşcani - Adjud,,6100826,106,581
+Paşcani - Bacău,,6100826,106,787
+Paşcani - Iaşi,,6100826,103,366
+Paşcani - Iaşi,,6100826,106,285
+Paşcani - Mărăşeşti,,6100826,106,593
+Paşcani - Suceava Nord,,6100826,106,392
+Paşcani - Târgu Neamţ Hm.,,6100826,106,347
+Periam - Timişoara Nord,,6100826,106,569
+Petroşani - Craiova,,6100826,106,839
+Petroşani - Simeria,,6100826,106,295
+Petroşani - Târgu Jiu,,6100826,106,515
+Piatra Neamţ - Bacău,,6100826,103,790
+Piatra Neamţ - Bacău,,6100826,106,330
+Piatra Olt - Caracal,,6100826,106,765
+Piatra Olt - Corabia,,6100826,106,412
+Piatra Olt - Craiova,,6100826,106,930
+Piatra Olt - Piteşti,,6100826,106,887
+Piatra Olt - Podu Olt,,6100826,106,440
+Piatra Olt - Potcoava,,6100826,106,960
+Piatra Olt - Râmnicu Vâlcea,,6100826,106,554
+Piatra Olt - Sibiu,,6100826,106,855
+Pietroşiţa Hm. - Bucureşti Nord Gr.A,,228389,106,230
+Pietroşiţa Hm. - Târgovişte,,228389,106,214
+Piteşti - Bucureşti Nord Gr.A,,6100826,106,505
+Piteşti - Bucureşti Nord Gr.B,,6100826,106,382
+Piteşti - Craiova,,6100826,106,722
+Piteşti - Curtea de Argeş,,6100826,106,627
+Piteşti - Piatra Olt,,6100826,106,751
+Ploieşti Sud - Braşov,,6100826,106,434
+Ploieşti Sud - Bucureşti Nord Gr.A,,228389,106,208
+Ploieşti Sud - Bucureşti Nord Gr.A,,6100826,106,974
+Ploieşti Sud - Bucureşti Nord Gr.B,,6100826,106,344
+Ploieşti Sud - Buzău,,6100826,106,1004
+Ploieşti Sud - Drăgăneşti Prahova Hm.,,227098,106,134
+Ploieşti Sud - Măneciu,,228389,106,218
+Ploieşti Sud - Mărăşeşti,,6100826,106,949
+Ploieşti Sud - Slănic,,228389,106,203
+Ploieşti Sud - Târgovişte,,228389,106,261
+Ploieşti Sud - Urziceni,,227098,106,111
+Ploieşti Vest - Mărăşeşti,,227098,106,174
+Podu Olt - Piatra Olt,,6100826,106,942
+Pui - Petroşani,,6100826,106,894
+Pui - Simeria,,6100826,106,1006
+Putna Hm. - Suceava,,6100826,106,507
+Păuşa h. - Caracal,,6100826,106,834
+Radna - Arad,,6100826,106,916
+Remetea Mică - Timişoara Nord,,227098,106,139
+Reşiţa Nord - Timişoara Nord,,227098,106,186
+Reşiţa Sud Hm. - Caransebeş,,6100826,106,332
+Roman - Buhăieşti,,227098,106,96
+Roman - Dagâţa,,227098,106,112
+Roman - Iaşi,,227098,106,142
+Roşiori Nord - Alexandria,,6100826,106,530
+Roşiori Nord - Bucureşti Nord Gr.A,,228389,106,242
+Roşiori Nord - Bucureşti Nord Gr.A,,6100826,106,822
+Roşiori Nord - Bucureşti Nord Gr.B,,6100826,106,457
+Roşiori Nord - Craiova,,6100826,106,638
+Rupea - Braşov,,6100826,106,491
+Ruse - Bucureşti Nord Gr.A,,6100826,103,686
+Râmnicu Vâlcea - Piatra Olt,,6100826,106,522
+Râmnicu Vâlcea - Sibiu,,6100826,106,682
+Războieni - Târgu Mureş,,6100826,106,459
+Salonta - Kotegyan,,6100826,106,594
+Salva - Ilva Mică,,6100826,106,506
+Satu Mare - Apa Hm.,,6100826,106,275
+Satu Mare - Baia Mare,,236037,106,55
+Satu Mare - Bucureşti Nord Gr.A,,6100826,105,698
+Satu Mare - Constanţa,,6100826,105,643
+Satu Mare - Halmeu,,236037,106,48
+Satu Mare - Jibou,,6100826,106,825
+Satu Mare - Nyirabrany,,6100826,106,1002
+Satu Mare - Oradea,,236037,106,53
+Satu Mare - Oradea,,6100826,106,742
+Satu Mare - Timişoara Nord,,6100826,103,716
+Scânteia Hm. - Iaşi,,6100826,106,336
+Sfântu Gheorghe - Braşov,,227098,106,147
+Sfântu Gheorghe - Breţcu Hm.,,227098,106,166
+Sibiu - Braşov,,6100826,106,846
+Sibiu - Bucureşti Nord Gr.A,,6100826,103,836
+Sibiu - Caracal,,6100826,106,692
+Sibiu - Cluj Napoca,,236037,106,44
+Sibiu - Constanţa,,6100826,103,955
+Sibiu - Copşa Mică,,6100826,106,795
+Sibiu - Craiova,,6100826,106,690
+Sibiu - Făgăraş,,6100826,106,651
+Sibiu - Loamneş Hm.,,6100826,106,712
+Sibiu - Mediaş,,236037,106,41
+Sibiu - Mediaş,,6100826,106,773
+Sibiu - Miercurea Sibiu Hm.,,6100826,106,931
+Sibiu - Piatra Olt,,6100826,106,315
+Sibiu - Râmnicu Vâlcea,,6100826,106,468
+Sibiu - Sighişoara,,6100826,106,289
+Sibiu - Teiuş,,6100826,106,555
+Sibiu - Târgu Mureş,,6100826,106,817
+Sibiu - Ucea,,6100826,106,785
+Siculeni - Braşov,,6100826,106,741
+Siculeni - Focşani,,6100826,106,827
+Siculeni - Miercurea Ciuc,,6100826,106,397
+Sighetu Marmaţiei - Beclean pe Someş,,6100826,106,899
+Sighetu Marmaţiei - Vişeu de Jos,,6100826,106,734
+Sighişoara - Beia Hm.,,6100826,106,793
+Sighişoara - Odorhei,,6100826,106,738
+Sighişoara - Sibiu,,6100826,106,721
+Simeria - Arad,,6100826,106,724
+Simeria - Braşov,,6100826,103,888
+Simeria - Cluj Napoca,,6100826,106,598
+Simeria - Deva,,6100826,106,608
+Simeria - Ilia,,6100826,106,531
+Simeria - Lugoj,,6100826,106,897
+Simeria - Petroşani,,6100826,106,977
+Simeria - Pui,,6100826,106,403
+Simeria - Săvârşin,,6100826,106,625
+Simeria - Teiuş,,6100826,106,655
+Slatina - Piatra Olt,,6100826,106,746
+Slobozia Veche - Bucureşti Nord Gr.A,,6100826,106,649
+Slobozia Veche - Ciulniţa,,6100826,106,858
+Slobozia Veche - Urziceni,,6100826,106,737
+Slănic - Ploieşti Sud,,228389,106,212
+Socola - Ungheni,,234273,103,1
+Stamora Moravita - Timişoara Nord,,6100826,106,321
+Stana Hm. - Cluj Napoca,,236037,106,73
+Suceava - Botoşani,,6100826,106,575
+Suceava - Bucureşti Nord Gr.A,,6100826,102,550
+Suceava - Bucureşti Nord Gr.A,,6100826,103,844
+Suceava - Bucureşti Nord Gr.A,,916191,102,4
+Suceava - Cacica Hm.,,6100826,106,786
+Suceava - Câmpulung Moldov.,,6100826,106,350
+Suceava - Ilva Mică,,6100826,106,428
+Suceava - Mangalia,,916191,102,8
+Suceava - Mărăşeşti,,6100826,103,384
+Suceava - Putna Hm.,,6100826,106,435
+Suceava Nord - Bacău,,6100826,106,932
+Suceava Nord - Botoşani,,6100826,106,462
+Suceava Nord - Bucureşti Nord Gr.A,,6100826,103,876
+Suceava Nord - Constanţa,,6100826,105,679
+Suceava Nord - Iaşi,,227098,106,104
+Suceava Nord - Iaşi,,6100826,106,647
+Suceava Nord - Paşcani,,6100826,106,352
+Sânnicolau Mare Hm. - Arad,,227098,106,131
+Sânnicolau Mare Hm. - Cenad h.,,227098,106,150
+Sânnicolau Mare Hm. - Timişoara Nord,,227098,106,183
+Sânnicolau Mare Hm. - Vălcani hcv.,,227098,106,154
+Sântana - Arad,,6100826,106,808
+Săcuieni Bihor - Sărmăşag,,6100826,106,975
+Sărmaşel hcv. - Bistriţa Nord,,227098,106,151
+Sărmaşel hcv. - Luduş,,227098,106,133
+Sărmaşu h. - Bistriţa Nord,,227098,106,125
+Sărmăşag - Jibou,,6100826,106,270
+Sărmăşag - Zalău Nord,,6100826,106,962
+Sărăţel - Bistriţa Nord,,6100826,106,312
+Săvârşin - Simeria,,6100826,106,303
+Tecuci - Iaşi,,6100826,106,728
+Teiuş - Arad,,6100826,102,853
+Teiuş - Cluj Napoca,,6100826,106,731
+Teiuş - Mediaş,,6100826,106,420
+Teiuş - Sibiu,,6100826,106,480
+Teiuş - Simeria,,6100826,106,339
+Teiuş - Târgu Mureş,,6100826,106,653
+Timişoara Nord - Arad,,6100826,106,495
+Timişoara Nord - Baia Mare,,6100826,103,994
+Timişoara Nord - Bucureşti Nord Gr.A,,6100826,103,1027
+Timişoara Nord - Băile Herculane,,6100826,106,628
+Timişoara Nord - Caransebeş,,6100826,106,685
+Timişoara Nord - Constanţa,,6100826,105,406
+Timişoara Nord - Cruceni hcv.,,227098,106,146
+Timişoara Nord - Iaşi,,6100826,103,293
+Timişoara Nord - Iaşi,,6100826,105,604
+Timişoara Nord - Jimbolia,,227098,106,109
+Timişoara Nord - Lokoshaza,,6100826,103,767
+Timişoara Nord - Lovrin,,6100826,106,891
+Timişoara Nord - Lugoj,,6100826,106,375
+Timişoara Nord - Oradea,,236037,106,88
+Timişoara Nord - Oradea,,6100826,103,995
+Timişoara Nord - Oradea,,6100826,106,965
+Timişoara Nord - Periam,,6100826,106,610
+Timişoara Nord - Remetea Mică,,227098,106,132
+Timişoara Nord - Reşiţa Nord,,227098,106,169
+Timişoara Nord - Satu Mare,,6100826,103,342
+Timişoara Nord - Stamora Moravita,,6100826,106,562
+Timişoara Nord - Sânnicolau Mare Hm.,,227098,106,161
+Titan Sud Hm. - Olteniţa,,228389,106,204
+Titu - Bucureşti Nord Gr.A,,200000,103,18
+Titu - Târgovişte,,6100826,106,988
+Topliţa - Braşov,,6100826,106,868
+Topliţa - Târgu Mureş,,236037,106,54
+Truşeşti Hm. - Iaşi,,227098,106,129
+Tulcea Oraş - Constanţa,,6100826,106,475
+Tulcea Oraş - Medgidia,,6100826,106,510
+Turceni - Târgu Jiu,,6100826,106,357
+Târgovişte - Bucureşti Nord Gr.A,,228389,106,259
+Târgovişte - Bucureşti Nord Gr.A,,6100826,106,396
+Târgovişte - Bucureşti Nord Gr.B,,6100826,106,503
+Târgovişte - Pietroşiţa Hm.,,228389,106,217
+Târgovişte - Ploieşti Sud,,228389,106,249
+Târgovişte - Titu,,6100826,106,563
+Târgu Bujor - Bârlad,,228389,106,251
+Târgu Bujor - Chiraftei h.,,228389,106,229
+Târgu Jiu - Craiova,,6100826,106,980
+Târgu Jiu - Filiaşi,,6100826,106,718
+Târgu Jiu - Petroşani,,6100826,106,665
+Târgu Jiu - Turceni,,6100826,106,265
+Târgu Mureş - Braşov,,6100826,103,743
+Târgu Mureş - Cluj Napoca,,236037,106,59
+Târgu Mureş - Cluj Napoca,,6100826,103,574
+Târgu Mureş - Câmpia Turzii,,236037,106,33
+Târgu Mureş - Deda,,236037,106,42
+Târgu Mureş - Deda,,6100826,103,784
+Târgu Mureş - Deda,,6100826,106,640
+Târgu Mureş - Războieni,,6100826,106,445
+Târgu Mureş - Sibiu,,6100826,106,757
+Târgu Mureş - Teiuş,,6100826,106,832
+Târgu Mureş - Topliţa,,236037,106,82
+Târgu Neamţ Hm. - Iaşi,,6100826,106,727
+Târgu Neamţ Hm. - Paşcani,,6100826,106,387
+Târnăveni - Blaj,,227098,106,140
+Ucea - Sibiu,,6100826,106,865
+Ungheni Prut Fr. - Bucureşti Nord Gr.A,,6100826,105,934
+Ungheni Prut Fr. - Iaşi,,6100826,106,470
+Ungheni Prut Fr. - Socola,,234273,103,2
+Ungheni Prut Hm. - Iaşi,,6100826,106,296
+Urziceni - Bucureşti Nord Gr.A,,6100826,106,762
+Urziceni - Ciulniţa,,6100826,106,301
+Urziceni - Ploieşti Sud,,227098,106,115
+Urziceni - Slobozia Veche,,6100826,106,615
+Valea lui Mihai - Oradea,,236037,106,66
+Valea lui Mihai - Satu Mare,,6100826,106,268
+Vaslui - Iaşi,,227098,106,152
+Vatra Dornei - Bistriţa Nord,,6100826,106,266
+Vatra Dornei - Câmpulung Moldov.,,6100826,106,714
+Vatra Dornei Băi hc. - Bucureşti Nord Gr.A,,6100826,105,752
+Vereşti - Botoşani,,6100826,106,641
+Videle - Giurgiu,,6100826,106,288
+Vidin Patnicheska - Craiova,,6100826,106,914
+Vişeu de Jos - Sighetu Marmaţiei,,6100826,106,353
+Vălcani hcv. - Arad,,227098,106,157
+Zalău Nord - Jibou,,6100826,106,720
+Zam Hm. - Simeria,,6100826,106,418
+Zlatna hcv. - Alba Iulia,,227098,106,120
+Zărneşti - Braşov,,227098,106,98
+Întorsura Buzăului Hm - Braşov,,227098,106,118
